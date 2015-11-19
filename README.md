@@ -20,7 +20,7 @@ Navigation is based on several levels of indexing:
  - Searching with the search box should bring up a list of **topics** ordered by relevance.
  - There might be a need for **Series** (like Playlists in SSD) to provide paths through topics that are relevant for certain profiles or situations.
 
-### Struture
+### Structure
 
 ```resources``` Hold static or dynamic content that are not part of exchanged content (they hold information but are not meant to be structured like learning content)
 
