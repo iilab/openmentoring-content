@@ -1,5 +1,7 @@
 ---
 title: Protect Yourself And Your Data When Using Social Networking Sites
+published: true
 ---
 
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+
+The instant messages that you exchange over Facebook are insecure if they are not encrypted, as both the company and anyone else intercepting your communications can have access to them. Here you will learn how to encrypt your instant messages over Facebook. 
