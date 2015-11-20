@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/iilab/openmentoring.png?label=ready&title=Ready)](https://waffle.io/iilab/openmentoring)
 # Open Mentoring
 
 A platform to help mentors access and share practical reusable information and educational content 
