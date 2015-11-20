@@ -4,4 +4,5 @@ published: true
 ---
 
 
-The instant messages that you exchange over Facebook are insecure if they are not encrypted, as both the company and anyone else intercepting your communications can have access to them. Here you will learn how to encrypt your instant messages over Facebook. 
+
+Here you can learn how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do! Continue reading to learn more.  
