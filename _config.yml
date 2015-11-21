@@ -19,6 +19,7 @@ prose:
     - README.md
     - LICENSE
     - INTENTIONS.md
+    - Makefile
   metadata:
     topics:
       - name: "lang"
