@@ -4,9 +4,10 @@ pygments: true
 permalink: /:categories/:title.html
 exclude:
   - .gitignore
+  - .travis.yml
   - README.md
-  - Gemfile
-  - Gemfile.lock
+  - LICENSE
+  - INTENTIONS.md
 languages: &languages
   - name: 'English'
     value: 'en'
@@ -15,11 +16,11 @@ languages: &languages
   - name: 'Français'
     value: 'fr'
 prose:
-  rooturl: '_posts'
+  rooturl: '.'
   siteurl: 'https://openmentoring.io'
   media: 'media'
   metadata:
-    data/topics:
+    topics:
       - name: "lang"
         field:
           element: "select"
