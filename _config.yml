@@ -16,7 +16,6 @@ languages: &languages
   - name: 'Français'
     value: 'fr'
 prose:
-  rooturl: '.'
   siteurl: 'https://openmentoring.io'
   media: 'media'
   metadata:
