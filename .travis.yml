@@ -2,11 +2,6 @@
 sudo: required
 dist: trusty
 language: ruby
-install:
-  - source "$PWD/versions"
-  - rvm use "$RUBY_VERSION" --install --binary
-  - nvm install "$NODE_VERSION"
-  - npm install -g npm
 script:
   - make
 after_success:
