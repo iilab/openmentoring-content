@@ -1,4 +1,3 @@
 # Summary
 
-* Safe Social Networks
 
