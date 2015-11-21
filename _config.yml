@@ -2,7 +2,7 @@ name: Open Mentoring
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title.html
-exclude:
+ignore:
   - .gitignore
   - .travis.yml
   - README.md
