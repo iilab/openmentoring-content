@@ -8,7 +8,6 @@ install:
   - nvm install "$NODE_VERSION"
   - npm install -g npm
 script:
-  - make install
-  - make build
+  - make
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make deploy
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install

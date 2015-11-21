@@ -16,6 +16,6 @@ install:
 	  -H "Content-Type: application/json" \
 	  -H "Accept: application/json" \
 	  -H "Travis-API-Version: 3" \
-	  -H "Authorization: token xxxxxx" \
+	  -H "Authorization: token WdDbPGsdvzBSMwKWfAmA" \
 	  -d "$body" \
 	  https://api.travis-ci.org/repo/iilab%2Fopenmentoring-publication/requests
