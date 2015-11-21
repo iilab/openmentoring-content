@@ -15,6 +15,7 @@ prose:
   ignore:
     - .gitignore
     - .travis.yml
+    - _config.yml
     - README.md
     - LICENSE
     - INTENTIONS.md
