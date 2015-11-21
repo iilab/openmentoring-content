@@ -25,8 +25,6 @@ Navigation is based on several levels of indexing:
 
 ```resources``` Hold static or dynamic content that are not part of exchanged content (they hold information but are not meant to be structured like learning content)
 
-```scripts``` Hold scripts to manage upstream and downstream content sources. (including marking content that needs updating or translation).
-
 ```topics``` Hold learning content.
 
 Each folder in ```topics``` is a **Topic** (a small content pack) holding the content necessary to learn a small unit of knowledge or knowhow. Typically each **Topic** should be readable in around or less than 5 minutes.
@@ -51,3 +49,7 @@ Content will be translated via Transifex
 Content will be made accessible either:
  - as binary content packages that can be downloaded and shared
  - as some type of compressed json diff files that help do lighter weight content updates.
+
+## TODO
+
+ - Helper utilities to track use and gaps for various user profiles. 
