@@ -1,0 +1,47 @@
+name: Open Mentoring
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:title.html
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+languages: &languages
+  - name: 'English'
+    value: 'en'
+  - name: 'Español'
+    value: 'es'
+  - name: 'Français'
+    value: 'fr'
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://openmentoring.io'
+  media: 'media'
+  metadata:
+    data/topics:
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Select language"
+          placeholder: "English"
+          options: *languages
+          selected: "en"
+      - name: "slug"
+        field:
+          element: "hidden"
+          label: "Slug"
+          value: ''
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: ''
+      - name: "module"
+        field:
+          element: "hidden"
+          value: ''
+      - name: "title"
+        field:
+          element: "text"
+          label: "Sections title"
+          placeholder: "This is a title"
