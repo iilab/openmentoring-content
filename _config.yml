@@ -2,12 +2,6 @@ name: Open Mentoring
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title.html
-ignore:
-  - .gitignore
-  - .travis.yml
-  - README.md
-  - LICENSE
-  - INTENTIONS.md
 languages: &languages
   - name: 'English'
     value: 'en'
@@ -18,6 +12,12 @@ languages: &languages
 prose:
   siteurl: 'https://openmentoring.io'
   media: 'media'
+  ignore:
+    - .gitignore
+    - .travis.yml
+    - README.md
+    - LICENSE
+    - INTENTIONS.md
   metadata:
     topics:
       - name: "lang"
