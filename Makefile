@@ -5,7 +5,7 @@ define BODY
   }
 }
 endef
-RESULT:=$(shell curl -v -v -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token Moi2eM58Eb7ArqSoggFCTA" -d "$${BODY}" https://api.travis-ci.org/repo/iilab%2Fopenmentoring-publication/requests)
+RESULT:=$(shell curl -v -v -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token Moi2eM58Eb7ArqSoggFCTA" -d "$${BODY}" https://api.travis-ci.org/repo/iilab%2Fopenmentoring-curation/requests)
 
 default: validate
 
