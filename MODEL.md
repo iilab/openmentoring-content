@@ -61,6 +61,7 @@ Profiles are used to tag content for different audiences (profession, communitie
  - hrd              : For human rights defenders
 
 In practice they are used to:
+
  - Filter content on the mobile app based on preferences entered at setup.
  - Generate different websites for different audiences
  - Generate different printable PDFs for different audiences
@@ -69,7 +70,7 @@ In practice they are used to:
 
 ``` - platform``` or using the file naming convention.
 
-__Required for **howto** content types__
+_Required for **howto** content types_
 
 Platforms are:
  - _                : All
@@ -82,10 +83,12 @@ Platforms are:
 __Examples__
 
 In YAML Frontmatter:
+
 ```  - platform: android``` 
 
-In Filename
-```5-howto-android.md```
+In Filename:
+
+``` 5-howto-android.md ```
 
 ### Risk Profiles / Protection profiles
 
@@ -113,7 +116,9 @@ Ommitting the ```protect``` category means that the content is meant not specifi
 __Examples__
 
 In YAML Frontmatter:
+
 ```  - protect: content, identity``` 
 
-In Filename
-```5-howto-content-identity.md```
+In Filename:
+
+``` 5-howto-content-identity.md ```
