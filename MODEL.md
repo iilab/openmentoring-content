@@ -96,10 +96,12 @@ In Filename:
 
 Content is also tagged according to the risk profiles it is targeting. Currently the following approach is proposed:
 
+```
 | Capability Class \ Assets Class | Content | Identity | Network |
 | ------------------------------- | ------- | -------- | ------- |
 | Passive                         | content | identity | network |
 | Targeted                        | targeted                   |||
+```
 
 Passive corresponds to dragnet electronic surveillance.
 Targeted corresponds to active electronic surveillance (using malware or other techniques) or physical surveillance.
