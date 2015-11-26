@@ -26,6 +26,7 @@ If your phone is connected to the Internet, either using a data connection offer
 Note: The contact list will display at the top all your contacts who also use Signal (under the Signal Users heading) and then your full contact list (including Signal users) in the All Contacts section.
 
 ![12.png]({{site.baseurl}}/media/12.png)
+Figure 1: Signal contact list
 
 **Step 3:** Compose your message in the box and tap to send.
 
@@ -36,6 +37,7 @@ Note If you send a message to another Signal user and you are connected to the I
 
 
 ![3s.png]({{site.baseurl}}/media/3s.png)
+Figure 2 & 3: Sent message / Alternative sending options
 
 ## _Things You Should Know_
 
@@ -44,14 +46,17 @@ Your sent messages are given different background colours / indicators to help y
 Blue with a icon: The message was sent encrypted via Internet.
 
 ![4s.png]({{site.baseurl}}/media/4s.png)
+Figure 4: Encrypted message send via mobile data
 
 Green with a icon: The message was sent as an encrypted SMS.
 
 ![5s.png]({{site.baseurl}}/media/5s.png)
+Figure 5: Encrypted SMS
 
 Green: The message was sent as an insecure SMS.
 
 ![6s.png]({{site.baseurl}}/media/6s.png)
+Figure 6: Insecure SMS
 
 
 A icon in your message indicates that it has been delivered. Note: the only appears by default when messages are sent via Internet; to see them when sending SMS you need to enable SMS delivery report in settings.
@@ -74,12 +79,14 @@ Note: If at least one of the people you are messaging does not use Signal, the m
 
 
 ![8s.png]({{site.baseurl}}/media/8s.png)
+Figure 7 & 8: Contact selection & Group Creation
 
 **Step 4:** Tap to complete the creation of the group and be brought back to the Signal main screen.
 
 **Step 5:** Tap on the group you have created and begin messaging the group.
 
 ![9s.png]({{site.baseurl}}/media/9s.png)
+Figure 9: Group conversation
 
 ## [4] Sending Files
 
@@ -99,6 +106,7 @@ Signal allows you to send images, video and audio files to your contact.
 
 
 ![11s.png]({{site.baseurl}}/media/11s.png)
+Figure 10 & 11: File type selection / Image sent to contact
 
 ## [5] Identity Verification
 
@@ -114,7 +122,7 @@ The Following steps will need to be performed by both parties.
 **Step 3:**You will be presented with a 66-character fingerprint of your Signal identity and that of your contacts. These should be read to each other, and verify that you both have the same fingerprints for each other, either in person or via a medium that allows you to confirm visually or audibly to whom you are talking.
 
 ![13s.png]({{site.baseurl}}/media/13s.png)
-
+Figure 12: Signal fingerprints
 
 ## [7] Scanning Fingerprints
 
@@ -138,10 +146,12 @@ The Following steps will need to be performed by both parties.
 
 
 ![15s.png]({{site.baseurl}}/media/15s.png)
+Figure 13 & 14: Your contact's QR code / Barcode scanner
 
 **Step 7:** Once the QR code has been successfully scanned Signal will check that the identity is valid.
 
 ![16s.png]({{site.baseurl}}/media/16s.png)
+Figure 15: Signal identity verified
 
 **Step 8:** Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
 
@@ -162,6 +172,7 @@ Note: While Signal allows you to export your messages, the messages in the backu
 
 
 ![18s.png]({{site.baseurl}}/media/18s.png)
+Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
