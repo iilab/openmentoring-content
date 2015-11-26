@@ -40,11 +40,10 @@ The _number_ defines the order in which the **Stack** is displayed within the un
 
 ## Types
 
-The _type_ defines the way the Stack will be displayed. (equivalent to setting ```type: cardtype```). Description of types:
- - ```intro```, ```learn```, ```scenario```, ```next``` : Regular content cards.
- - ```howto```                                          : Walkthrough or How to card.
- - ```test```                                           : Quizz, or practical test card 
- - ```script```                                         : Dynamic content (for instance triggering other app's features)
+The _type_ defines the way the Stack will be displayed. (equivalent to setting ```type: stacktype```). Description of types:
+ - ```card```, ```intro```, ```learn```, ```scenario```, ```next``` : Regular content cards.
+ - ```howto```                                                      : Walkthrough or How to card.
+ - ```activity```, ```script```, ```test```                         : Quizz, or practical test card, dynamic content (for instance triggering other app's features)
 
 ## Categories
 
