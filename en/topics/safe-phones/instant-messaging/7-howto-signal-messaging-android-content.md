@@ -122,15 +122,46 @@ The Following steps will need to be performed by both parties.
 
 **Step 1:** Open an existing conversation with your contact and tap at the top of the screen.
 
-Step 2: Tap from the pull-down menu.
+**Step 2:** Tap from the pull-down menu.
 
-Step 3: You will be presented with a 66-character fingerprint of your Signal identity and that of your contacts.
+**Step 3:** You will be presented with a 66-character fingerprint of your Signal identity and that of your contacts.
 
-Step 4 On both your phones tap on .
+**Step 4:** On both your phones tap on .
 
-Step 5: On your phone tap and your contact should tap . Your contact's phone will display a QR code and your phone will open Barcode Scanner.
+**Step 5:** On your phone tap and your contact should tap . Your contact's phone will display a QR code and your phone will open Barcode Scanner.
 
-Step 6: Use Barcode Scanner on your phone to scan your contact's QR code.
+**Step 6:** Use Barcode Scanner on your phone to scan your contact's QR code.
+
+![14s.png]({{site.baseurl}}/media/14s.png)
+
+
+![15s.png]({{site.baseurl}}/media/15s.png)
+
+**Step 7:** Once the QR code has been successfully scanned Signal will check that the identity is valid.
+
+![16s.png]({{site.baseurl}}/media/16s.png)
+
+**Step 8:** Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
+
+## [8] Export your messages
+Note: While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
+
+**Step 1:** Tap on in the top right of the main Signal screen to bring up the menu and select .
+
+**Step 2:** The next screen will open on the import options, tap .
+
+**Step 3:** On the export screen tap .
+
+**Step 4:** Confirm that you want to export the unencrypted messages to the storage on your phone by tapping .
+
+**Step 5:** Signal will confirm the export has completed by displaying . You will find a file called Textsecure.xml on your phone's storage that contains your unencrypted messages.
+
+![17s.png]({{site.baseurl}}/media/17s.png)
+
+
+![18s.png]({{site.baseurl}}/media/18s.png)
+
+
 
 
 
