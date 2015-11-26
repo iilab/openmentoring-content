@@ -7,7 +7,9 @@ Below are the steps that you will take to send and recueve encrypted text using 
 - Reading Fingerprints
 - Scanning Fingerprints
 - Export your messages
-##  [1] Sending and Receiving messages
+
+
+##  **[1] Sending and Receiving messages**
 
 **Note:** To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
 
