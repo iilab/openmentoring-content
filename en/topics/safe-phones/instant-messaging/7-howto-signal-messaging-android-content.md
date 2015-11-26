@@ -79,6 +79,58 @@ Note: If at least one of the people you are messaging does not use Signal, the m
 
 ![9s.png]({{site.baseurl}}/media/9s.png)
 
+## [4] Sending Files
+
+Signal allows you to send images, video and audio files to your contact.
+
+**Step 1:** Start a conversation with the person you want to send the file to.
+
+**Step 2:** Tap on in the top right of your screen to bring up the menu and select .
+
+**Step 3:** Choose from the list the type of file that you want to send - Picture / Video / Audio
+
+**Step 4:** Select the file you want to send.
+
+**Step 5:** Verify that the file you want to send is in the compose window and press to send.
+
+![10s.png]({{site.baseurl}}/media/10s.png)
+
+
+![11s.png]({{site.baseurl}}/media/11s.png)
+
+## [5] Identity Verification
+
+To confirm that the messages you are sending and receiving are with the right person, you should both verify your Signal identities with each other.
+
+## [6] Reading Fingerprints
+The Following steps will need to be performed by both parties.
+
+**Step 1:** Open an existing conversation with your contact and tap at the top of the screen.
+
+**Step 2:** Tap from the pull-down menu.
+
+**Step 3:**You will be presented with a 66-character fingerprint of your Signal identity and that of your contacts. These should be read to each other, and verify that you both have the same fingerprints for each other, either in person or via a medium that allows you to confirm visually or audibly to whom you are talking.
+
+![13s.png]({{site.baseurl}}/media/13s.png)
+
+
+## [7] Scanning Fingerprints
+
+**Note:** To verify fingerprints by scanning you need to have Barcode Scanner installed on your phone. If it is not available on your phone at the time of scanning Signal will download and install the app for you.
+
+The Following steps will need to be performed by both parties.
+
+**Step 1:** Open an existing conversation with your contact and tap at the top of the screen.
+
+Step 2: Tap from the pull-down menu.
+
+Step 3: You will be presented with a 66-character fingerprint of your Signal identity and that of your contacts.
+
+Step 4 On both your phones tap on .
+
+Step 5: On your phone tap and your contact should tap . Your contact's phone will display a QR code and your phone will open Barcode Scanner.
+
+Step 6: Use Barcode Scanner on your phone to scan your contact's QR code.
 
 
 
