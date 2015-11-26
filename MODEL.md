@@ -30,7 +30,7 @@ Each **Topic** contains several **Units**. A **Unit** should typically be readab
 Each **Unit** folder contains **Stacks** in Markdown w/ YAML Frontmatter format which contain information or interactive components.
 
 Stacks are using the following file naming convention:
- _number_-_type_-_category_.md
+ _number_-_type_-_category_-_othercategory_.md
 
 For instance the following files would correspond to:
  ```1-intro.md```       : Introduction for everyone.
