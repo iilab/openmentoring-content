@@ -27,15 +27,7 @@ Navigation is based on several levels of indexing:
 
 ```topics``` Hold learning content.
 
-Each folder in ```topics``` is a **Topic** (a small content pack) holding the content necessary to learn a small unit of knowledge or knowhow. Typically each **Topic** should be readable in around or less than 5 minutes.
-
-Each folder contains cards in Markdown w/ YAML Frontmatter format which contain information or interactive components that are part of the Topic. Example of such cards include:
- - Text Content
- - Video/Animation Content
- - Interactive Content
-   - Quizzes
-   - Practical Tests
-   - Small tools
+See the [Content Model](MODEL.md) for more details.
 
 ### Interop 
 
