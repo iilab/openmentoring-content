@@ -96,18 +96,19 @@ In Filename:
 Content is also tagged according to the risk profiles it is targeting. Currently the following approach is proposed:
 
 ```
-| Capability Class \ Assets Class | Content | Identity | Network |
-| ------------------------------- | ------- | -------- | ------- |
-| Passive                         | content | identity | network |
-| Targeted                        | targeted                   |||
+| Capability Class \ Assets Class | Content | Identity |
+| ------------------------------- | ------- | -------- |
+| Passive                         | content | identity |
+| Targeted                        | integrity          ||
 ```
 
 Passive corresponds to dragnet electronic surveillance.
 Targeted corresponds to active electronic surveillance (using malware or other techniques) or physical surveillance.
 
 Content are assets related to the content of communications or documents.
-Identity are assets related to the authors of documents or communications, of users of platforms
-Network are assets related to metadata establishing links between content and people, of people between each other, of people with locations...
+Identity are assets related to the authors of documents or communications, of users of platforms, other metadata establishing links between content and people, of people between each other, of people with locations...
+
+The choice of protection profile should always be visible to the user whatever their self assessed risk profile is. Switching protection profile should be accompanied by information about what the profile approach's limitations are and what the target protection profile is meant to cover.
 
 In addition to the table cells:
  - ```none``` means a practice which doesn't protect anything against any of the classes of adversary capabilities.
