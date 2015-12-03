@@ -1,5 +1,7 @@
 ---
-protect: content, identity, linkability
+protect: 
+ - content
+ - identity
 action: 
  - fdroid::swap::bluetooth::fdroid
  - fdroid::swap::bluetooth::orbot

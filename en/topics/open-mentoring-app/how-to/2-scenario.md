@@ -1,7 +1,7 @@
 ---
-protect:
- - type: content,identity,linkability 
- - level: passive
+protect: 
+ - content
+ - identity
 # protects against passive data gathering and metadata analysis?
 ---
 
