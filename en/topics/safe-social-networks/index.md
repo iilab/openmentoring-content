@@ -1,3 +1,3 @@
 ---
-title: Who controls and owns the information I put into a social networking site?
+title: Safe Social Networks
 ---
