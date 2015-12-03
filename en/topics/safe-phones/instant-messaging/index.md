@@ -1,3 +1,3 @@
 ---
-title: Getting started with Social Networks 
+title: Instant Messaging on Smart Phones
 ---
