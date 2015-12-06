@@ -18,6 +18,7 @@ prose:
     - README.md
     - LICENSE
     - INTENTIONS.md
+    - MODEL.md
     - Makefile
   metadata:
     topics:
