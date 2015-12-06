@@ -20,7 +20,7 @@ prose:
     - INTENTIONS.md
     - MODEL.md
     - Makefile
-    - */_topic
+    - '*/_topic'
   metadata:
     topics:
       - name: "lang"
