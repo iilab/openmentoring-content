@@ -72,3 +72,7 @@ It may be that you find there are a lot of threats to your work, and it can be d
 It might help you to plot them on a 'Risk Matrix' such as this one:
 ![Risk-matrix1]({{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210153729.png)
 
+<!--more-->
+
+Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
+
