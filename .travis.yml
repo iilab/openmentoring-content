@@ -7,4 +7,4 @@ node_js:
 script:
   - make
 after_script:
-  - test $TRAVIS_TEST_RESULT == 0 && $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
+  - test $TRAVIS_TEST_RESULT == "0" && test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
