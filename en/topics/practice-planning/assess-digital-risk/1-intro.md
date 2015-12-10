@@ -52,3 +52,8 @@ It's worth noting that capacities and vulnerabilities are often "two sides of th
 >**IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES**
 
 It may help for you to map them out on a matrix, like this:![Matrix1]({{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210152002.png)
+
+<!--more-->
+
+>**An example for an Investigative Journalist might look like this:**
+![Matrix-example]({{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210152645.png)
