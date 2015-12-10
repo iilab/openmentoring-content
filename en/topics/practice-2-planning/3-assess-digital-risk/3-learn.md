@@ -1,4 +1,4 @@
-In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, > **who** is behind them, and > **why**.
+In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 
 In order to 'map' the **actors** relevant to our work and our well-being, we might consider dividing them into three categories:
 <!--more-->
@@ -27,29 +27,29 @@ Due to the large amount of information they collect about your activities, they 
 
 <!--more-->
 
->**ASSESSING RISK**
->**Risk refers** to possible events, however uncertain, that result in harm.
+**ASSESSING RISK**
+**Risk refers** to possible events, however uncertain, that result in harm.
 
 You can think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
 
 <!--more-->
 
->**Threats** refer to a declaration or indication of an intention to inflict harm. 
+**Threats** refer to a declaration or indication of an intention to inflict harm. 
 The higher the threats, the higher your risk.
 An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
 
 <!--more-->
 
->**Vulnerabilities** refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk. An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
+**Vulnerabilities** refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk. An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
 
 <!--more-->
 
->**Capacities** refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+**Capacities** refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 <!--more-->
 
->**IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES**
+**IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES**
 
 It may help for you to map them out on a matrix, like this:
 | Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
@@ -60,7 +60,7 @@ It may help for you to map them out on a matrix, like this:
 
 <!--more-->
 
->**An example for an Investigative Journalist might look like this:**
+**An example for an Investigative Journalist might look like this:**
 |                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |
 |-----------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |
@@ -72,7 +72,7 @@ This example is merely for demonstrative purposes and may have nothing in common
 <!--more-->
 
 
->**THE RISK MATRIX: PROBABILITY AND IMPACT**
+**THE RISK MATRIX: PROBABILITY AND IMPACT**
 It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.
 
 <!--more-->
