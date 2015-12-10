@@ -1,5 +1,8 @@
-Concerns about internet privacy are no longer just the domain of terrorists and hackers only but also for anyone who hates the idea third-parties snooping around. 
 
-A compromised internet identity makes you a prime target for identity theft and government surveillance and it makes it easy anyone interested in knowing exactly what you are up to while browsing.    
+Now more than ever, your online privacy is under attack.
 
-If you want to keep yourself safe in this digital age,there are a number of tools available to use. 
+Your ISP, advertisers, and governments around the world are increasingly interested in knowing exactly what you’re up to when you browse the web.
+
+Whether you’re a human right activist, journalist or you are just someone who doesn't want a third party to monitor what you are doing.
+
+If you want to keep yourself safe in this digital age,you can do so by taking some basic precautions which serve to hide or disguise your identity there are plenty of tools available to keep prying eyes off of your traffic.
