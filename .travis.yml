@@ -1,8 +1,10 @@
 ---
-sudo: required
+sudo: false
 dist: trusty
-language: ruby
+language: node_js
+node_js:
+  - "4.1"
 script:
   - make
-after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
+after_script:
+  - test $TRAVIS_TEST_RESULT == 0 && $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
