@@ -76,16 +76,13 @@ This example is merely for demonstrative purposes and may have nothing in common
 It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.
 
 <!--more-->
-
-It might help you to plot them on a 'Risk Matrix' such as this one:
-
 | Probability |     |          |                           |              |
+|-------------|-----|----------|---------------------------|--------------|
 | Very high   |     |          | Confiscation of materials |              |
 | High        |     | Burglary |                           |              |
 | Medium      |     |          | Entrapment and Assault    | Imprisonment |
 | Low         |     |          |                           |              |
 | Impact      | Low | Medium   | High                      | Catastrophic |
-|             |     |          |                           |              |
 
 <!--more-->
 
