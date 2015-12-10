@@ -1,4 +1,3 @@
-1-intro-hrm.md
 In order to know what measures to take in order to be more secure, both digitally and in our day-to-day personal and professional activities, it's important to understand the nature of the risk we face, so that we can make the right decisions about how best to stay safe.
 
 <!--more-->
