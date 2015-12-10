@@ -4,4 +4,4 @@ The authorities in Uganda have not been able to shut down their website, because
 
 Henry and Grace are concerned that the authorities may be able to monitor their updates and learn who they are.
 
-In addition,they want to prepare for when the government eventually filters their website,not only so that they can continue updating it, but also in order to provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
+In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
