@@ -57,3 +57,18 @@ It may help for you to map them out on a matrix, like this:![Matrix1]({{site.bas
 
 >**An example for an Investigative Journalist might look like this:**
 ![Matrix-example]({{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210152645.png)
+
+This example is merely for demonstrative purposes and may have nothing in common with your own situation. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
+
+<!--more-->
+
+
+>**THE RISK MATRIX: PROBABILITY AND IMPACT**
+
+It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.
+
+<!--more-->
+
+It might help you to plot them on a 'Risk Matrix' such as this one:
+![Risk-matrix1]({{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210153729.png)
+
