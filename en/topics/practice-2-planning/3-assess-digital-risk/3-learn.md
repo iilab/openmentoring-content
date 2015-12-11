@@ -50,17 +50,18 @@ It's worth noting that capacities and vulnerabilities are often "two sides of th
 <!--more-->
 
 **IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES**
-
 It may help for you to map them out on a matrix, like this:
+
 | Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
-|---------|------|-------------------------|--------------------|-----------------------------|
+| ------- | ---- | ----------------------- | ------------------ | --------------------------- |
 |         |      |                         |                    |                             |
 |         |      |                         |                    |                             |
-|         |      |                         |                    |                             |
+
 
 <!--more-->
 
 **An example for an Investigative Journalist might look like this:**
+
 |                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |
 |-----------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |
