@@ -1,0 +1,61 @@
+Label,Type,Tags,Description,Image
+Security in a Box,Source,,,https://ononymous.org/assets/img/cover/siab.png
+Digital First Aid Kit,Source,,,https://www.eff.org/files/2014/07/11/digital-1st-aid-1.png
+Umbrella,Source,,,https://lh3.googleusercontent.com/-KP-4_SQa3JX9um3WHUaRfHchnmSvwnyAPfTTi3AY5IbRvHmvy-NKZDRsxwUnYyzvlI=w170
+Surveillance Self Defence,Source,,,https://ssd.eff.org/sites/all/themes/ssd/logo.png
+Email Self Defence,Source,,,https://static.fsf.org/nosvn/images/gnupg_robot-ja.png
+Dealing with Emergencies: Getting Started,Practice,Dealing with Emergencies,,http://dummyimage.com/100.png/41b6c4&text=P
+Dealing with Emergencies: Seeking Remote Help,Practice,Dealing with Emergencies,https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md#seeking-and-providing-remote-help,http://dummyimage.com/100.png/41b6c4&text=P
+Dealing with Emergencies: Account Hijacking,Practice,Dealing with Emergencies,https://digitaldefenders.org/digitalfirstaid/#section-hijacking-accounts,http://dummyimage.com/100.png/41b6c4&text=P
+Dealing with Emergencies: Devices Seized,Practice,Dealing with Emergencies,https://digitaldefenders.org/digitalfirstaid/#section-devices-seized,http://dummyimage.com/100.png/41b6c4&text=P
+Dealing with Emergencies: Malware,Practice,Dealing with Emergencies,https://digitaldefenders.org/digitalfirstaid/#section-malware,http://dummyimage.com/100.png/41b6c4&text=P
+Dealing with Emergencies: DDOS Mitigation,Practice,Dealing with Emergencies,https://digitaldefenders.org/digitalfirstaid/#section-ddos-mitigation,http://dummyimage.com/100.png/41b6c4&text=P
+Dealing with Emergencies: After an Emergency,Practice,Dealing with Emergencies,,http://dummyimage.com/100.png/41b6c4&text=P
+Planning and Preparing: Getting Started,Practice,Planning and Preparing,,http://dummyimage.com/100.png/1d91c0&text=P
+Planning and Preparing: Understanding Threats,Practice,Planning and Preparing,https://securityinabox.org/en/lgbti-africa/digital-threats-african-lgbti-community,http://dummyimage.com/100.png/1d91c0&text=P
+Planning and Preparing: How to Assess your Risk?,Practice,Planning and Preparing,,http://dummyimage.com/100.png/1d91c0&text=P
+Planning and Preparing: How to Assess your Digital Security Risk?,Practice,Planning and Preparing,https://securityinabox.org/en/lgbti-africa/security-risk,http://dummyimage.com/100.png/1d91c0&text=P
+Planning and Preparing: Plan for emergencies with your contacts,Practice,Planning and Preparing,,http://dummyimage.com/100.png/1d91c0&text=P
+Using Phones Safely: Getting Started,Practice,Using Phones Safely,,http://dummyimage.com/100.png/c7e9b4&text=P
+Using Phones Safely: Instant Messaging on Smart Phones,Practice,Using Phones Safely,,http://dummyimage.com/100.png/c7e9b4&text=P
+Using Social Networks Safely: Getting started with Social Networks,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using Social Networks Safely: How to control access to friends & contacts?,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using Social Networks Safely: How to control access to your personal details?,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using Social Networks Safely: How to chat securely?,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using Social Networks Safely: Who controls and owns your information on Social Networking platforms?,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using Social Networks Safely: Who can access your information on Social Networking platforms?,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using Social Networks Safely: Establishing trust with others on Social Networking platforms,Practice,Using Social Networks Safely,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using the Internet Anonymously: Getting Started,Practice,Using the Internet Anonymously,,http://dummyimage.com/100.png/7fcdbb&text=P
+Using the Internet Anonymously: How to prevent your traffic from being watched,Practice,Using the Internet Anonymously,http://www.wikihow.com/Be-Online-Anonymously,http://dummyimage.com/100.png/7fcdbb&text=P
+Using the Internet Anonymously: How to leave less traces while browsing,Practice,Using the Internet Anonymously,,http://dummyimage.com/100.png/7fcdbb&text=P
+Safe Emailing: Getting Started,Practice,Safe Emailing,,
+Safe Emailing: Protecting yourself against Phishing attacks,Practice,Safe Emailing,https://www.theengineroom.org/dont-be-a-phish-how-to-protect-your-team-from-a-spear-phishing-attack/,
+Android: Getting Started,Tool,Android,,http://dummyimage.com/100.png/ffffd9&text=T
+Open Mentoring: Getting Started,Tool,Open Mentoring,,http://dummyimage.com/100.png/ffffd9&text=T
+Open Mentoring: How to share the Open Mentoring App,Tool,Open Mentoring: How to share the Open Mentoring App,,http://dummyimage.com/100.png/ffffd9&text=T
+Signal: Getting Started,Tool,Signal,,http://dummyimage.com/100.png/ffffd9&text=T
+Signal: Installation and Configuration,Tool,Signal,,http://dummyimage.com/100.png/ffffd9&text=T
+Signal: Instant Messaging,Tool,Signal,,http://dummyimage.com/100.png/ffffd9&text=T
+Signal: Voice Call,Tool,Signal,,http://dummyimage.com/100.png/ffffd9&text=T
+How it works: Getting Started,Understand,How it works,,http://dummyimage.com/100.png/ffffff&text=U
+How it works: Internet,Understand,How it works,,http://dummyimage.com/100.png/ffffff&text=U
+How it works: Cookies,Understand,How it works,,http://dummyimage.com/100.png/ffffff&text=U
+How it works: Computers,Understand,How it works,,http://dummyimage.com/100.png/ffffff&text=U
+How it works: Phones,Understand,How it works,,http://dummyimage.com/100.png/ffffff&text=U
+How it works: Smart Phones,Understand,How it works,,http://dummyimage.com/100.png/ffffff&text=U
+Security: Getting Started,Understand,Security,,http://dummyimage.com/100.png/ffffff&text=U
+Security: Your security,Understand,Security,,http://dummyimage.com/100.png/ffffff&text=U
+Security: Your well being,Understand,Security,,http://dummyimage.com/100.png/ffffff&text=U
+Security: Your story,Understand,Security,,http://dummyimage.com/100.png/ffffff&text=U
+Security: Your sources,Understand,Security,,http://dummyimage.com/100.png/ffffff&text=U
+Security: Your colleagues,Understand,Security,,http://dummyimage.com/100.png/ffffff&text=U
+Operational Security Basics: Getting Started,Understand,Operational Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Operational Security Basics: Establishing trust ,Understand,Operational Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Operational Security Basics: Organisational Security,Understand,Operational Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Getting Started,Understand,Digital Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Encryption,Understand,Digital Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Passwords,Understand,Digital Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Metadata,Understand,Digital Security Basics,https://ssd.eff.org/en/module/why-metadata-matters,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Secure Communications,Understand,Digital Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Protecting your Identity,Understand,Digital Security Basics,,http://dummyimage.com/100.png/ffffff&text=U
+Digital Security Basics: Establishing trust ,Understand,Digital Security Basics,https://digitaldefenders.org/digitalfirstaid/#section-trust-2,http://dummyimage.com/100.png/ffffff&text=U
