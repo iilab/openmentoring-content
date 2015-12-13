@@ -1,14 +1,9 @@
 <quiz name="Gitbook Quiz">
     <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
+        <p>What is the digital first aid kit used for?</p>
+        <answer correct>To help diagnose problems you might face</answer>
+        <answer>To help hijack other people's account</answer>
+        <answer correct>To help provide support to others who might encounter problems</answer>
+        <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
     </question>
 </quiz>
