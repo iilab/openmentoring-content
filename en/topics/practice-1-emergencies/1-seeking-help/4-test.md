@@ -1,14 +1,8 @@
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
+<quiz name="">
     <question>
-        <p>Is it quiz?</p>
+        <p>Landlines are not encrypted but mobile phones are</p>
         <answer correct>Yes</answer>
         <answer>No</answer>
+        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
     </question>
 </quiz>
