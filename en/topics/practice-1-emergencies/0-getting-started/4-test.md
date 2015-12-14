@@ -1,4 +1,4 @@
-<quiz name="Gitbook Quiz">
+<quiz name="What this guide can help you with">
     <question multiple>
         <p>What is the digital first aid kit used for?</p>
         <answer correct>To help diagnose problems you might face</answer>
