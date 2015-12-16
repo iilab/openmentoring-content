@@ -16,6 +16,8 @@ prose:
     - .travis.yml
     - _config.yml
     - README.md
+    - docs
+    - CONTRIBUTING.md
     - LICENSE
     - INTENTIONS.md
     - MODEL.md
