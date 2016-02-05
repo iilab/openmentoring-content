@@ -1,14 +1,11 @@
-<quiz name="Gitbook Quiz">
+<quiz name="Test planning Quiz">
     <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+        <p>How would you determine the measures you would take to be safe?</p>
+        <!--more-->
+        <answer correct>Risk analysis</answer>
+        <answer>Reading books </answer>
+        <answer correct>risk analysis and assessment</answer>
+        <explanation>Risk analysis lets determin the measures you would take to be safe</explanation>
     </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
+   
 </quiz>
