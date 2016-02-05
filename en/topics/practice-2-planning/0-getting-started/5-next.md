@@ -1,3 +1,3 @@
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
+ * [Threats](en/topics/practice-2-planning/1-threats/1-intro.md)
+ * [Risk Assessment](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
  * ...
