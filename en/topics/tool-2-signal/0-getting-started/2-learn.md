@@ -10,8 +10,8 @@ Signal:
  - Last revision of this chapter: December 2014
 
 GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs:
- - Android: surespot, ChatSecure
+ - Android: surespot, ChatSecure, Zom
  - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin, CryptoCat
- - Mac OS: Jitsi, Adium, CryptoCat
- - Linux: Jitsi, Pidgin, CryptoCat
+ - Microsoft Windows: Jitsi, Pidgin
+ - Mac OS: Jitsi, Adium
+ - Linux: Jitsi, Pidgin
