@@ -1,15 +1,10 @@
-Downloading Signal:
- - Install Signal from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
- - Once installed click open to start the application
-
-Signal:
- - Homepage: www.whispersystems.org
- - Phone Requirements: Android 2.3 and up
- - Version used in this guide: 2.3.2
- - License: Freeware (GPL v3)
- - Last revision of this chapter: December 2014
-
-GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs:
+Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+<br>
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+<br>
+In it's current form, Signal requires Android 2.3 and up. Signal is compatable with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+<br>
+This means that When you use Signal, you can communicate with users using the following programs:
  - Android: surespot, ChatSecure, Zom
  - iOS: surespot, ChatSecure
  - Microsoft Windows: Jitsi, Pidgin
