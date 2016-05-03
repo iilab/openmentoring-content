@@ -1,4 +1,4 @@
-Establishing Trust
+Establishing trust when reaching out
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 <br>
 You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
