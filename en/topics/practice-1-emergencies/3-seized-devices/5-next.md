@@ -6,5 +6,5 @@
  
  automatically adding things to read 
  
- natural follow up lessons (e.g. the next lesson), but also related materials (e.g. phones) -->
+ natural follow up lessons (e.g. the next lesson), but also related materials (e.g. phones), or additional reading that's online.-->
  
