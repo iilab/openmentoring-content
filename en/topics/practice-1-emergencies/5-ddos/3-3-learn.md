@@ -7,5 +7,5 @@ Start by answering some simple questions:
 - Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
 - Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
 - Who else knows or may have access to these account details?
-
+<br>
 After answering these questions, take the following first steps to mitigate the problem.
