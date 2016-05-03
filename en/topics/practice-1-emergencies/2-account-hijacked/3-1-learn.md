@@ -19,4 +19,4 @@ Committee to Protect Journalists: info@cpj.org
 Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
-Internews: info@internews.orgSelect the link that best describes your current situation:
+Internews: info@internews.org
