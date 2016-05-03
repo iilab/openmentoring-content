@@ -5,7 +5,7 @@ Some providers will send a link to change your password to your recovery email a
 In the reset case, it is important to change the password immediately after regaining access to your account.
 <br>
 If these steps do not work and your account is being abused, contact the platform provider directly. Alternatively, contact the following organisations for possible support in shutting the account down.
-<br>
+
 Electronic Frontier Foundation: info@eff.org
 Front Line Defenders: info@frontlinedefenders.org
 Committee to Protect Journalists: info@cpj.org
