@@ -15,3 +15,5 @@ The following important recommendations can help you to set up new channels of s
         PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Here is a guide for using PGP with Thunderbird on your computer.
         Tor Browser Bundle can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
         A number of secure tools come pre-installed in TAILS.
+
+For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
