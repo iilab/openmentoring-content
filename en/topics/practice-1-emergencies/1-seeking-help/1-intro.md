@@ -2,62 +2,86 @@ This section will provide you with guidance on ways to establish secure communic
 
 Key takeaways from this section will include the following:
 - Basic introduction to encryption and secure communication
-- Things to keep in mind when reaching for help
+- Seeking and providing remote help
 - Who to contact when reaching out for help
 - Next steps
 
 
 Basic introduction to encryption and secure communication
-
-As a general rule, it is important to understand that most 'normal' communications tools are not very secure against eavesdropping. Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
+<br>
+Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
 Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+Finally, when communicating there are different levels of security. How and what kind of encryption a tool makes use of will increase or decrease your communication security.
 
-Finally, when communicating there are different levels of security. How and what kind of encryption a tool makes use of will increase or decrease your communication security. A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter). This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available. Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+<br>
+This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available. 
+<br>
+To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
-Where to start? If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the Safer Computing section below. If you think that your communication might be targeted and/or you have just changed to a safer computer, the Safer Communication section and Safer Communication on a smartphone section below provides steps to establish secure communications.
+To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
+
+
+How to ask for help
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+<br>
+If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
+<br>
+If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
+
 
 
 
 Seeking and providing remote help
 
 When you are seeking remote help from a third party please keep the following in mind:
-
-If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust. Also remember that the device you are using might be the subject of the attack. In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device. The guides referenced below in "Helpful Resources" and in the Resources section can also help. If possible, do not rely on unknown people you find online.
+- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
+<br>
+- Remember that the device you are using might be the subject of the attack.
+- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
+<br>
+- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
+- If possible, do not rely on unknown people you find online.
 
 Among the organizations you may reach out to include:
-
-    EFF
-        URL: https://www.eff.org/
-        email: info@eff.org
-    Front Line Defenders
-        URL: http://www.frontlinedefenders.org/
-        email: info@frontlinedefenders.org
-    CPJ
-        URL: https://www.cpj.org/
-        email: info@cpj.org
-    RSF
-        URL: http://en.rsf.org/
-        email: internet@rsf.org
-    Access
-        URL: https://www.accessnow.org/
-        email: help@accessnow.org
-        PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
-    Digital Defenders Partnership
-        URL: http://digitaldefenders.org/
-        email: ddp@hivos.org
-    Freedom House
-        URL: http://freedomhouse.org/
-    Internews
-        URL: https://www.internews.org/
-    IWPR
-        URL: https://www.cyber-arabs.com/
-    Open Technology Fund
-        URL: https://www.opentechfund.org
-        email: info@opentechfund.org
-        PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
+-EFF
+ URL: https://www.eff.org/
+ email: info@eff.org
+-Front Line Defenders
+ URL: http://www.frontlinedefenders.org/
+ email: info@frontlinedefenders.org
+-CPJ
+ URL: https://www.cpj.org/
+ email: info@cpj.org
+-RSF
+ URL: http://en.rsf.org/
+ email: internet@rsf.org
+-Access
+ URL: https://www.accessnow.org/
+ email: help@accessnow.org
+ PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
+-Digital Defenders Partnership
+ URL: http://digitaldefenders.org/
+ email: ddp@hivos.org
+-Freedom House
+ URL: http://freedomhouse.org/
+-Internews
+ URL: https://www.internews.org/
+-IWPR
+ URL: https://www.cyber-arabs.com/
+-Open Technology Fund
+ URL: https://www.opentechfund.org
+ email: info@opentechfund.org
+ PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
         
 Safer computing: What to do when you can't trust your device?
 
