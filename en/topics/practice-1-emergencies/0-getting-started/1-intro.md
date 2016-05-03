@@ -4,7 +4,7 @@ This section aims to provide preliminary support for people facing the most comm
 
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
-- Surveillance
+- Seeking help 
 - Hijacked account
 - Devices seized
 - Malware
