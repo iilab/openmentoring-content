@@ -8,7 +8,7 @@ Human rights advocates are particularly vulnerable to the dangers of social netw
 This section will provide an overview of how to use social networks safer. Topics to be covered include:
 - Getting started with Social Networks
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
-- Controlling access to your personal details
+- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
 - [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
 - Who controls and owns your information on Social Networking platforms?
 - Who can access your information on Social Networking platforms?
