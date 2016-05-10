@@ -5,7 +5,7 @@ If you work with sensitive information and topics, and are interested in using s
 Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
 <br>
-This section will provide an overview of how to use social networks safer. Topics to be covered include:
+This section, adopted from Tactical Technology Collective's [Security in a Box,](https://securityinabox.org/) will provide an overview of how to use social networks safer. Topics to be covered include:
 - Getting started with Social Networks
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
