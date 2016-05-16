@@ -1,5 +1,7 @@
-In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor.
+Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
 <br>
-Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web.
-<br>
-If you want to keep yourself safe in this digital age you can use Tor browser software which hide or disguise your identity and keep prying eyes off of your traffic.
+In this section, you are going to learn about how to 
+- Stay anonymous online
+- Prevent your traffic from being watched
+- Leave less traces while browsing
+- Avoid malicious sites
