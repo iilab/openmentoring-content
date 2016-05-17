@@ -9,4 +9,3 @@ If you found this useful, you might be interested in the following sections:
 <br>
 See also:
  * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
