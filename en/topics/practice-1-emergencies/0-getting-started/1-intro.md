@@ -1,7 +1,7 @@
-This section aims to provide preliminary support for people facing the most common types of digital threats.
-
+**This section aims to provide preliminary support for people facing the most common types of digital threats.
+**
 <br>
-
+**Key takeaways**
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
 - [Seeking help](en/topics/practice-1-emergencies/1-seeking-help/1-intro.md) 
@@ -10,5 +10,4 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md)
 - [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
-<br> 
-
+<br>
