@@ -1,5 +1,5 @@
 ---
-title: "What is a DDOS?"
+title: "What is a DDOS attack?"
 published: true
 ---
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
