@@ -1,3 +1,7 @@
+---
+title: "Thing to think about when posting to social networking sites"
+published: true
+---
 Ask yourself: is it necessary to post the following information online?
  - birth dates
  - contact phone numbers
