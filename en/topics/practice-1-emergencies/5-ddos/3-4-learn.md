@@ -1,3 +1,7 @@
+---
+title: "How to mitigate a DDOS attack"
+published: true
+---
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 <br>
 - Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
