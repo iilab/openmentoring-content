@@ -1,4 +1,7 @@
-Among the organizations you may reach out to include:
+---
+title: "Organisations you may reach out to"
+published: true
+---
 -EFF https://www.eff.org/
  email: info@eff.org
 -Front Line Defenders http://www.frontlinedefenders.org/
@@ -6,7 +9,6 @@ Among the organizations you may reach out to include:
 -CPJ https://www.cpj.org/
  email: info@cpj.org
 <br>
-Among the organizations you may reach out to include:
 -RSF http://en.rsf.org/
  email: internet@rsf.org
 -Access https://www.accessnow.org/
@@ -15,7 +17,6 @@ Among the organizations you may reach out to include:
 -Digital Defenders Partnership http://digitaldefenders.org/
  email: ddp@hivos.org
 <br>
-Among the organizations you may reach out to include:
 -Freedom House http://freedomhouse.org/
 -Internews https://www.internews.org/
 -IWPR https://www.cyber-arabs.com/
