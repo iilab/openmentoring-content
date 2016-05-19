@@ -1,4 +1,4 @@
-Basic introduction to encryption and secure communication
+**Basic introduction to encryption and secure communication**
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
 **Normal communication**
