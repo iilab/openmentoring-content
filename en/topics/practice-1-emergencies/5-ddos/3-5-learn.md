@@ -1,4 +1,9 @@
+---
+title: "What to do if you are suffering from a website defacement"
+published: true
+---
 If you are suffering from a website defacement, take the following steps:
+<br>
 Step 1: Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes. It is very important to keep payments for your domain name in order.
 <br>
 Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the Account Hijacking section for help.
