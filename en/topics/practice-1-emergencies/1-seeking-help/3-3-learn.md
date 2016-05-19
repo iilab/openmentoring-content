@@ -1,6 +1,9 @@
-How to ask for help
+---
+title: "How to ask for help"
+published: true
+---
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-
+<br>
 In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
 <br>
 If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
