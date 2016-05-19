@@ -1,3 +1,7 @@
+---
+title: "Mitigating the problem"
+published: true
+---
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
 If you still have access to the account, take the following steps:
