@@ -1,3 +1,7 @@
+---
+title: "First steps to take if your website is down or defaced"
+published: true
+---
 Finding the problem and possible solutions to your website’s problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (e.g. webmaster or the people who helped you set up your site)
 <br>
 Start by answering some simple questions:
