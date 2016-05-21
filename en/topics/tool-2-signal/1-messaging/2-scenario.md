@@ -1,7 +1,5 @@
 ---
-protect: 
-  - content
-  - identity
+title: "Scenario"
 published: true
 ---
 
