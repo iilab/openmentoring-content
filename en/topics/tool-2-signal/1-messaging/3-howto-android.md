@@ -1,12 +1,13 @@
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
-- Sending and Receiving messages
-- Messaging Individuals
-- Messaging Groups
-- Identity Verification
-- Reading Fingerprints
-- Scanning Fingerprints
-- Export your messages
+- [Sending and Receiving messages](en/topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
+- [Messaging Individuals](en/topics/tool-2-signal/1-messaging/index.html#-2-messaging-individuals)
+- [Messaging Groups](en/topics/tool-2-signal/1-messaging/index.html#-3-messaging-groups)
+- [Sending files](en/topics/tool-2-signal/1-messaging/index.html#-4-sending-files)
+- [Identity verification](en/topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
+- [Reading fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
+- [Scanning fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-7-scanning-fingerprints)
+- [Export your messages](en/topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
 
 
 ##  **[1] Sending and Receiving messages**
@@ -173,4 +174,3 @@ Note: While Signal allows you to export your messages, the messages in the backu
 
 ![18s.png](18s.png)
 Figure 16 & 17: Signal Export and Export confirmation screens
-
