@@ -1,5 +1,5 @@
 ---
-title: "How to share Open Mentoring content with others?"
+title: "Using Signal for encrypted messaging"
 interactive: "risk-path"
 published: true
 ---
