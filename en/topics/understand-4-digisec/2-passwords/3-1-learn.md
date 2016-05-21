@@ -1,10 +1,8 @@
-
-Highly recommended investments of your time:
-
-    Shift to using KeepassX to manage your passwords.
-    Set up Two-Factor Authentication.
-
-Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts. Here is some basic advice on choosing passwords: Don’t use the same password across devices. Don’t use your name or account in the password. Don’t use common passwords (e.g., “12345,” family names). Strong passwords are long and include a combination of lower- and uppercase letters, numbers and special characters; their strength increases with length and complexity. 
+Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
+<br>
+Here is some basic advice on choosing passwords: Don’t use the same password across devices. Don’t use your name or account in the password. Don’t use common passwords (e.g., “12345,” family names).
+<br>
+Strong passwords are long and include a combination of lower- and uppercase letters, numbers and special characters; their strength increases with length and complexity.
 
 To test your password, you can play around with the “How secure is my password?” tool. This site will calculate how quickly a desktop PC could crack your password. “Hello12,” for example, would take about 19 seconds. But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
 
