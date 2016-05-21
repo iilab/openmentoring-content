@@ -3,11 +3,13 @@ title: "How to share Open Mentoring content with others?"
 interactive: "risk-path"
 published: true
 ---
-
-<!--is this a broken link?-->
-![signal-and-en-v02-023.png]({{site.baseurl}}/en/topics/tool-2-signal/1-messaging/signal-and-en-v02-023.png)
-
-* First you need to share the app.
- * Then you need to share content.
-
-[Learn more about risk types and levels](resources/risk-assessment.md)
+This section will provide an overview of how to use the app Signal for encrypted messaging.
+<br>
+Key takeaways from this section include learning how to do the following:
+ - Send and receive messages
+ - Message individuals
+ - Message groups
+ - Identity verification
+ - Read fingerprints
+ - Scan fingerprints
+ - Export your messages
