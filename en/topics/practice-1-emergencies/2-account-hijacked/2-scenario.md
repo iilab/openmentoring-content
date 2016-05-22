@@ -1,7 +1,7 @@
-![](http://dummyimage.com/400x400/ddd/666.png&text=Scenario1)
+![](scenario.png "Illustrate scenario 1")
 
 Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
 <br>
-![](http://dummyimage.com/400x400/ddd/666.png&text=Scenario2)
+![](scenario.png "Illustrate scenario 2")
 
 More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
