@@ -1,3 +1,7 @@
+---
+title: "Key takeaways"
+published: true
+---
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
 - [Seeking help](en/topics/practice-1-emergencies/1-seeking-help/1-intro.md) 
