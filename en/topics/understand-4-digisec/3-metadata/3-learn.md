@@ -1,4 +1,7 @@
-Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
+---
+title: "What is metadata?"
+published: true
+---Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
 <br>
 This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
 <br>
