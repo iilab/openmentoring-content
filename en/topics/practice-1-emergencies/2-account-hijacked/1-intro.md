@@ -1,4 +1,4 @@
-![](http://dummyimage.com/400x400/ddd/666.png&text=Unit+landing)
+![](unit.png "Landing image for the unit")
 
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 <br>
