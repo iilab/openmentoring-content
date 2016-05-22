@@ -1,7 +1,8 @@
 ---
-title: "Key takeaways"
+title: Key takeaways
 published: true
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Key takeaways from this unit include the following:
+- Why is it important to protect your sources
+- Things to consider when offering confidentiality to your sources
+- Suggestions on techniques to protect you and your sources
