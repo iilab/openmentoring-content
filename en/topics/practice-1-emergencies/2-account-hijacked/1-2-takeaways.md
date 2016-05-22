@@ -1,3 +1,7 @@
+---
+title: "Key takeaways"
+published: true
+---
 Key takeaways will include:
 - [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
 - [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
