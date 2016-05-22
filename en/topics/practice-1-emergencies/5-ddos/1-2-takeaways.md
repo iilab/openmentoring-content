@@ -1,3 +1,7 @@
+---
+title: "Key takeaways"
+published: true
+---
 Key takeaways of this section are:
 - [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
