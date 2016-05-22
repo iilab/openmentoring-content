@@ -7,6 +7,6 @@ If you found this useful, you might be interested in the following sections:
  * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
 <br>
 See also:
- * Chronic Stress
- * Traumatic Stress
- * Post-Traumatic Stress 
+- [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
+- [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
+- [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
