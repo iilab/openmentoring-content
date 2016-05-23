@@ -1,6 +1,4 @@
-Now that you have drawn the map of stakeholders in protection, determined the
-field forces, assessed your risk, recognised your strategies already in place, and
-established your strategy, it should not be difficult to draft a security and emergency plan.
+Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
 <br>
 When making an emergency plan, you should specify the frequency and exact means by which you will check in with editors and family members.
 <br>
