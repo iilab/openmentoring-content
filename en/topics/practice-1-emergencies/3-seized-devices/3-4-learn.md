@@ -1,7 +1,8 @@
 ---
-title: "Mitigating the problem"
+title: Mitigating the problem
 published: true
 ---
+![](recap.png)
 If your device is still missing take the following four steps:
 <br>
 - Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
