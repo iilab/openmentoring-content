@@ -1,6 +1,6 @@
 When making an emergency plan, you should specify the frequency and exact means by which you will check in with editors and family members.
 <br>
-It may also include a simple code to discreetly signal an immediate threat.
+Your plan may also include a simple code to discreetly signal an immediate threat.
 <br>
 Codes could also be devised to signal that the journalist wants to meet at a prearranged location, or to switch to another means of communication.
 <br>
