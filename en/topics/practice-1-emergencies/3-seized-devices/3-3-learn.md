@@ -3,6 +3,7 @@ title: Identifying what was on the missing device
 published: true
 ---
 ![](recap.png)
+
 Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
 <br>
 What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
