@@ -1,4 +1,9 @@
-## If your website is defaced
+---
+title: "Is your website defaced?"
+published: true
+---
+![](recap.png)
+
 Step 1: Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes.
 <br>
 To prevent this, it is very important to keep payments for your domain name in order.
