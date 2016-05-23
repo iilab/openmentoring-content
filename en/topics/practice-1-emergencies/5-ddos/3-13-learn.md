@@ -1,4 +1,9 @@
-## Questions for your webmaster
+---
+title: "Questions for your webmaster"
+published: true
+---
+![](recap.png)
+
 Who built your website? Are they available to help?
 <br>
 Who is your web hosting provider? This is the company that provides the server where your website lives. If you do not know, you can use a tool like this to help.
