@@ -1,16 +1,11 @@
 ---
 title: Reaching out for more help
 source: Umbrella
+published: true
 ---
-If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
+Different providers have different recovery procedures or ways to reset passwords.
 <br>
-Alternatively, contact the following organisations for possible support in shutting the account down.
-Immediate Support/Digital?
-- Electronic Frontier Foundation: info@eff.org
-- Front Line Defenders: info@frontlinedefenders.org
-- Committee to Protect Journalists: info@cpj.org
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
 <br>
-- Reporters Sans Frontieres: internet@rsf.org
-- Access: help@accessnow.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
+In the reset case, it is important to change the password immediately after regaining access to your account.
+![](recap.png)
