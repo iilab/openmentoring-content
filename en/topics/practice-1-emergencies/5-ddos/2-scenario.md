@@ -1,5 +1,5 @@
 ![](scenario.png)
-Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
+Brenda published a story about corruption on her organisation's website. Hours later, the website is down and she worries the site is being attacked to censor the important issues she exposed.
 <br>
 ![](scenario.png)
-Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
+Before she can determine if the site is being attacked, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix the problem.
