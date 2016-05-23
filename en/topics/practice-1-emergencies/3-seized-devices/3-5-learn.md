@@ -1,3 +1,5 @@
+![](recap.png)
+
 If you get your device back, take the following steps:
 <br>
 Be careful as you do not know who has had access to your device. Possibly treat the device as if it is now untrusted or compromised.
