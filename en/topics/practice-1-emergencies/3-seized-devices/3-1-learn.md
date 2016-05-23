@@ -3,7 +3,6 @@ title: Questions to answer when you first notice a device is missing
 published: true
 ---
 ![](recap.png)
-Should you believe your device is seized, start by answering some simple questions:
 <br>
 - What happened?
 <br>
