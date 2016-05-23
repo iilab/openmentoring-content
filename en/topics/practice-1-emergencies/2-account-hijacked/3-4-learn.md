@@ -1,7 +1,8 @@
 ---
-title: "Reviewing Account Activity"
+title: Reviewing Account Activity
 published: true
 ---
+![](recap.png)
 For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
 <br>
 Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
