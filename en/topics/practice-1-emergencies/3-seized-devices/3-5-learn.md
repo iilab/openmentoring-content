@@ -1,10 +1,11 @@
-![](recap.png)
-
-If you get your device back, take the following steps:
+---
+title: "If you get the device back"
+published: true
+---![](recap.png)
 <br>
 Be careful as you do not know who has had access to your device. Possibly treat the device as if it is now untrusted or compromised.
 <br>
-Ask yourself the following questions and assess the risk that your device has been compromised:
+Ask yourself the following 4 questions and assess the risk that your device has been compromised:
 <br>
 1. How long was the device out of your sight?
 <br>
