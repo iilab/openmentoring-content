@@ -2,6 +2,10 @@
 title: Possible other reasons you may be suffering from a down or defaced website
 published: true
 ---
+---
+title: "Other reasons your site may be down"
+published: true
+---
 ![](recap.png)
 
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
