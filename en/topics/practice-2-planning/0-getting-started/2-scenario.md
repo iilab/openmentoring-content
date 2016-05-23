@@ -1,3 +1,3 @@
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)

@@ -10,7 +10,7 @@ If you still have access to the account, take the following steps:
 - Log into your account from the new computer and change the password on your account
 - Stop using this account for sharing of sensitive information until you better understand the situation.
 
-![](recap.png "Lesson section recap image")
+![](recap.png)
 <br>
 ##If you do not have access to the account
 If you no longer have access to the account, different providers have different recovery procedures or ways to reset passwords.

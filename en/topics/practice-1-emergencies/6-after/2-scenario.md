@@ -1,4 +1,4 @@
 Scenario text...
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 <br>
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)

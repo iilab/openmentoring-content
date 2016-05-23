@@ -1,4 +1,4 @@
 ---
-title: Account Hijacking
+title: Hijacked Account
 order: 2
 ---
