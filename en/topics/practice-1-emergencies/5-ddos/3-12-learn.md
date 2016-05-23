@@ -1,5 +1,9 @@
 ---
-title: "Steps to mitigate a DDOS attack"
+title: Steps to mitigate a DDOS attack
+published: true
+---
+---
+title: "Steps to fix the problem"
 published: true
 ---
 ![](recap.png)
