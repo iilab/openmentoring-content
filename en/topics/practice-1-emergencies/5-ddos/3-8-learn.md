@@ -1,4 +1,9 @@
-**Software problem**
+---
+title: "Software problem"
+published: true
+---
+![](recap.png)
+
 Are you seeing error messages? This could be a software problem.
 <br>
 Think about any recent changes you or your team may have made and contact your webmaster.
