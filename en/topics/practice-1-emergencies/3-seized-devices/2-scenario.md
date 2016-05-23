@@ -1,7 +1,5 @@
 ![](scenario.png)
-Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
+Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
 <br>
 ![](scenario.png)
-He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
-
-
+Brenda . If she doesn
