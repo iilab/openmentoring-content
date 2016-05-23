@@ -1,7 +1,8 @@
 ---
-title: "Key takeaways"
+title: Key takeaways
 published: true
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Key takeaways from this unit include the following:
+- What is secure communication?
+- What to do if you believe your communication channels have been compromised?
+- Encryption tools
