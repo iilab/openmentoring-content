@@ -1,4 +1,9 @@
-## Steps to mitigate a DDOS attack
+---
+title: "Steps to mitigate a DDOS attack"
+published: true
+---
+![](recap.png)
+
 Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
 <br>
 Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
