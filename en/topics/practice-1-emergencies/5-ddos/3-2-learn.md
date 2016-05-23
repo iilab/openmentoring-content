@@ -1,9 +1,5 @@
 ---
-title: Possible other reasons you may be suffering from a down or defaced website
-published: true
----
----
-title: "Other reasons your site may be down"
+title: "Other reasons your site might be down"
 published: true
 ---
 ![](recap.png)
