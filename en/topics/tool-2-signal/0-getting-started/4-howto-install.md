@@ -13,6 +13,8 @@ Step 1. On your Android device, download and install the app from the Google Pla
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/002.png)
 Figure 1: Signal on the Google Play Store
 <br>
+As an alternative to downloading Signal through Google services, you can install Signal by using libresignal, [available on F-Droid](https://libraries.io/github/LibreSignal/LibreSignal). This allows you to utilise all Signal functionality with the exception of phone calls.
+<br>
 Step 2:. Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
 <br>
 Once your are happy with the permissions allowed, press and the installation will complete.
