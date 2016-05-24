@@ -9,3 +9,4 @@ Some providers will send a link to change your password to your recovery email a
 <br>
 In the reset case, it is important to change the password immediately after regaining access to your account.
 ![](recap.png)
+> change your password!
