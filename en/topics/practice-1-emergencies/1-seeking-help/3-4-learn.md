@@ -1,15 +1,14 @@
 ---
-title: Seeking and providing remote help
+title: "Establishing trust when reaching out"
 published: true
 ---
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
+<br>
+It might be safer to presume that an adversary may have access to all your account details as well as your  communications when seeking help and might be attempting to provide specific, bad advice.
+<br>
+If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
+<br>
+When you are initating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
+<br>
 ![](recap.png)
-When you are seeking remote help from a third party please keep the following in mind:
-- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
-<br>
-- Remember that the device you are using might be the subject of the attack.
-<br>
-- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-<br>
-- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
-<br>
-- If possible, do not rely on unknown people you find online.
+> have a video chat.

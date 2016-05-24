@@ -1,5 +1,5 @@
 ---
-title: If you can login
+title: Get back control of your account
 ---
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>

@@ -1,5 +1,5 @@
 ---
-title: Normal Communication
+title: Unencrypted channels
 published: true
 ---
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.

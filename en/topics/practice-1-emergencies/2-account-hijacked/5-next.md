@@ -1,11 +1,10 @@
- You might be interested in reading these other topics:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- <br>
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [!!!Physical](resources/glossary.md)
- * Umbrella
+---
+- en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
+- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
+- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
+- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
+- en/topics/pratice-4-safe-social-networks/0-getting-started: Find out more about social networking platforms.
+---
+To learn more about dealing with emergencies, see also:
+ * RiseUp [Communications Security](https://help.riseup.net/en/security)
+ * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)

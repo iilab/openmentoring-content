@@ -1,6 +1,5 @@
 ---
 title: Seeking Remote Help
 order: 1
+duration: 5
 ---
-
-This unit will take 5 minutes to complete.

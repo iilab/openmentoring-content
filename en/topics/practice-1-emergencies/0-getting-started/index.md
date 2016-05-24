@@ -2,6 +2,5 @@
 title: Getting Started
 order: 0
 source: https://github.com/RaReNet/DFAK
+duration: 3
 ---
-
-This unit will take 3 minutes to complete.

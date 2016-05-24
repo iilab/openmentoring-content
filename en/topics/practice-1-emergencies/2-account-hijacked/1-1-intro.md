@@ -1,3 +1,8 @@
+---
+title: "Seeking help"
+source:
+- [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
+---
 ![](unit.png)
 
-This section provides recommendations on steps to take if you suspect your online accounts are hijacked.
+Steps to take if you suspect your online accounts are hijacked.
