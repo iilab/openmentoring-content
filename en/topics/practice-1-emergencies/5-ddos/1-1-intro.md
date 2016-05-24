@@ -1,3 +1,3 @@
 ![](unit.png)
 <br>
-This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
+This section will provide guidance on waht to do if an adversary tries to silence you by taking down or defacing your website.
