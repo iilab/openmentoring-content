@@ -1,8 +1,8 @@
 ---
 title: "If you get the device back"
 published: true
----![](recap.png)
-<br>
+---
+![](recap.png)
 Be careful as you do not know who has had access to your device. Possibly treat the device as if it is now untrusted or compromised.
 <br>
 Ask yourself the following 4 questions and assess the risk that your device has been compromised:
@@ -13,7 +13,7 @@ Ask yourself the following 4 questions and assess the risk that your device has 
 <br>
 3. Why would they want access to it?
 <br>
-4.  Are there signs that the device has been physically tampered with?
+4.Are there signs that the device has been physically tampered with?
 <br>
 If you have lost contact with your device for an extended period of time and you feel there is a chance that something has been installed on it, please consider the following:
 <br>
