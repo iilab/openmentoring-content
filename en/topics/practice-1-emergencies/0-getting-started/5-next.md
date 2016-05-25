@@ -4,5 +4,5 @@
 - en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
 ---
 To learn more about dealing with emergencies, see also:
-* DFAK.
-* ...
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)

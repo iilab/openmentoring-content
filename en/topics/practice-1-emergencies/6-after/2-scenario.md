@@ -2,6 +2,6 @@ Isaac and Brenda had their office raided. They are in need of emergency funding 
 
 ![](scenario.png)
 <br>
-Isaac feels he didn't do enough to prepare, and Brenda suggests they re-evaluate their emergency and security procedures. If they don't, they might face the same emergencies again soon.
+Isaac feels he didn't do enough to prepare, and Brenda suggests they re-evaluate their emergency and security procedures. If they don't, they fear they may face the same emergencies again soon.
 
 ![](scenario.png)

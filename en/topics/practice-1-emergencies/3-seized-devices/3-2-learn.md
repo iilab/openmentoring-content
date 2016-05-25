@@ -1,15 +1,8 @@
 ---
-title: Questions to answer when you first notice a device is missing
+title: Have people been compromised?
 published: true
 ---
 ![](recap.png)
+Sometimes having a device seized means that people have been compromised as a result of sensitive information getting in the wrong hands.
 <br>
-What happened?
-<br>
-What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
-<br>
-When and where did you lose the device?
-<br>
-How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
-<br>
-Is the device still missing?
+Think about what assets you have that can be compromising to people and work out a way to let them know. Do this as securely as possible, as explained in the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications) lesson.
