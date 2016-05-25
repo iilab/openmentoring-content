@@ -1,15 +1,15 @@
 ---
-title: Identifying security protections the missing device has in place
+title: Questions to answer when you first notice a device is missing
 published: true
 ---
 ![](recap.png)
 <br>
-Was the device protected by a password or other security measures?
+What happened?
 <br>
-Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
 <br>
-Does the device have full disk encryption turned on?
+When and where did you lose the device?
 <br>
-What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
+How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
 <br>
-Do you have remote access to the device?
+Is the device still missing?
