@@ -1,5 +1,5 @@
 ---
-title: "Other places to check for suspicious activity"
+title: Other places to check for suspicious activity
 published: true
 ---
 Check for suspicious addresses which your email might be automatically forwarding your emails to.
@@ -7,6 +7,3 @@ Check for suspicious addresses which your email might be automatically forwardin
 Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
 <br>
 Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
-<br>
-![](recap.png)
-> account details one might not think of.
