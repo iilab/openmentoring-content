@@ -6,7 +6,6 @@ published: true
 
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
-When necessary, this would be a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training.). This includes thinking about best way to either respond to an emergency or not.
+When necessary, this is a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training).
 <br>
-Think about emergency plans for all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
-<br>
+Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
