@@ -3,9 +3,8 @@ title: "If you get the device back"
 published: true
 ---
 ![](recap.png)
-Be careful as you do not know who has had access to your device. Possibly treat the device as if it is now untrusted or compromised.
-<br>
-Ask yourself the following 4 questions and assess the risk that your device has been compromised:
+
+Ask yourself the following 4 questions and [assess the risk](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md) that your device has been compromised:
 <br>
 1. How long was the device out of your sight?
 <br>

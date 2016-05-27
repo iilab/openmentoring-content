@@ -1,15 +1,11 @@
 ---
-title: What was on the missing device
+title: Contacts and linked accounts
 published: true
 ---
-![](recap.png)
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
+<br>
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
+<br>
+Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
 
-Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more. This will help you learn what may have been exposed or stolen.
-<br>
-Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if your information is secure or not.
-<br>
-Did you use full disk encryption on the device? This will help you to learn if files on your computer containing sensitive information is secure or not.
-<br>
-What accounts does this device have access to? Examples include email, social media, chat, IM and banking accounts that the device can access. Is the device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
-<br>
-Do your accounts have saved passwords or automatically log in when you turn your device on? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePassX. If you do, be sure to change you passwords immediately.
+![](recap.png)
