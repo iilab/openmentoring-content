@@ -3,3 +3,4 @@
 <br>
 See also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
