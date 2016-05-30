@@ -1,24 +1,51 @@
-##Dealing with chronic stress
-Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consignee and comprise the techniques that work best for each person.
+---
+title: Effects of Chronic stress
+---
+# Physical symptoms:
+-Exhaustion
+-Hyperactivity
+-Sleeping difficulties or excessive sleep
+<Br>
+-Slight flu-like symptoms
+-Headaches
+-Heightened blood pressure and heart rate
+-Nausia or vomiting.
 <br>
-It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
+# Behavioural symptoms:
+-Avoiding genuine social contact and relationships
+-Substance abuse (caffeine/alcohol/drugs)
+-A series of short and casual romantic/sexual relationships
+-Risk taking
+-Withdrawal
+-Irritability or a constant tendency to pick quarrels
+-Aggression
 <br>
-**Learn about stress.** Be aware of the signs and symptoms of stress.
+# Work-related symptoms:
+-Working very long hours
+-Lateness/not coming in to work
+-Poor work performance
 <br>
-**Know yourself.** Learn to observe your feelings and attitudes before trying to control your behaviour.
+-Loss of perspective
+-Pre-occupation with an idea, even if it is old or ineffective
+-Deterioration in judgment and logical thinking
+-Reduced creativity
+-Deteriorating communication
 <br>
-**Eat well and exercise. **Establish a regular exercise program and stick to it. Beneficial exercise for stress reduction includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
+# Emotional effects:
+-Low morale
+-Pessimism and cynicism
+-Anxiety
 <br>
-**Get rest and relaxation. **Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
+-Guilt
+-Depression
+-Excitement/hyper-activity
 <br>
-**Practice belief systems.** Maintain spiritual health consistent with your personal beliefs.
+-A feeling of power and invulnerability
+-Intense identification with, OR lack of compassion for those you work with
+-Nightmares or flashbacks
 <br>
-**Maintain a sense of humour and perspective.** Try to have contact with others outside of the work environment.
+-Tendency to avoid/repress intense thoughts or feelings
+-Questioning of major life areas
 <br>
-**Be informed. **Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
-<br>
-**Talk to people. **Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
-<br>
-**Change a stressful environment as much as possible.** Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
-<br>
-**Think positive!**
+# Consequences
+Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly. 
