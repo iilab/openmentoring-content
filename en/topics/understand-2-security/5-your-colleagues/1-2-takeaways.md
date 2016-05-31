@@ -2,7 +2,11 @@
 title: "Learn about"
 published: true
 ---
-## A New Post
+- Team configurations
+- Sharing of information with your teams
+- [Talking about security with your colleagues](link to level up resources on working with people who don't want to learn)
+
+
 
 give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
 
