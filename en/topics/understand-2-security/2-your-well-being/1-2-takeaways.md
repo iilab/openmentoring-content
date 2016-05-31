@@ -13,6 +13,5 @@ https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinni
 http://www.integratedsecuritymanual.org/
 
 - Getting to grips with fear
-- Using the anxiety pressure gauge
 - Stress and traumatic stress reactions
 - Building your own emotional resilience
