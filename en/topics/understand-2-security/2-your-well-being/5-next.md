@@ -6,6 +6,7 @@
 - (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
 ---
 See also:
-- Security First's [Umbrella](https://secfirst.org/index.html)
+- Security First: [Umbrella](https://secfirst.org/index.html)
 - De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
-- 
+- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
+- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
