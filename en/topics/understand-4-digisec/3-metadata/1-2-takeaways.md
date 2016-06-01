@@ -1,8 +1,7 @@
 ---
-title: Key takeaways
+title: Learn about
 published: true
 ---
-Key takeaways from this section include:
-- What is metadata?
-- Where can I find metadata?
-- How can metadata expose me or my connections?
+- What metadata is
+- Where you can find metadata
+- How metadata can expose you or your connections

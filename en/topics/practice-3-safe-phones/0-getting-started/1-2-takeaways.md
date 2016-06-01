@@ -1,5 +1,5 @@
 ---
-title: "Key takeaways"
+title: "Learn how to"
 published: true
 ---
 ## A New Post
