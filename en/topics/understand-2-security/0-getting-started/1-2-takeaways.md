@@ -1,5 +1,5 @@
 ---
-title: Key takeaways
+title: Learn how to
 published: true
 ---
 Key takeaways from this topic include lessons on the following:

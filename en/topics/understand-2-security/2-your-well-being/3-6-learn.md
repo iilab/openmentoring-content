@@ -23,6 +23,8 @@ If you are suffering from burnout , the key to recovery is rest. It is essential
 <br>
 During this period, it is important to examine and redesign the work situation that led to the problem in the first place. In addition, stress management training might help prevent future recurrence.
 <br>
+![](recap.png)
+<br>
 # Vicarious Traumatization
 Vicarious traumatization refers to traumatic stress arising from exposure to the frightening experiences of others.
 <br>
@@ -35,3 +37,6 @@ The prevention of vicarious traumatization requires limiting exposure to distres
 While the former may be difficult for many people due to the demands of their jobs, regular supervision and ongoing support is helpful for the latter.
 <br>
  If you are suffering from vicarious traumatization, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
+ <br>
+ ![](recap.png)
+ <br>

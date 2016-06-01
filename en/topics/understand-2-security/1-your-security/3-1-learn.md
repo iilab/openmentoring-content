@@ -1,4 +1,4 @@
-Your security and well being are always more important than a story. To minimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+Your security and well being are always more important than a story. To minimise potential risks, it is important to always prepare a security assessment.
 <br>
 > Step 1
 # Identify known hazards
@@ -17,27 +17,4 @@ The assessment should include:
  - travel plans and methods within the country
  - multiple entry and exit routes.
 <br>
-
-> Step 2
-# Address communications infrastructure
-
-The assessment should address the communications infrastructure in the reporting area, identifying any contingency equipment you may need.
-<br>
-Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so?
-<br>
-Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
-<br>
-Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include?
-
-
-> Step 3
-# Consult diverse sources
-
-Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
-<br>
-Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
-<br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
-<br>
-
-![](recap.png)
+ ![](recap.png)

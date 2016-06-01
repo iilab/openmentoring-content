@@ -10,6 +10,8 @@ Any event which is very distressing and outside of the realm of normal human exp
 <br>
 Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
+![](recap.png)
+<br>
 
 # Effects of traumatic stress
 At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
@@ -55,7 +57,9 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 - Feel that your heart is beating faster.
 <br>
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
-
+<br>
+![](recap.png)
+<br>
 # Dealing with traumatic stress
 
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies. This will help them feel stronger and regain a sense of control.
@@ -83,3 +87,4 @@ Adapt the following suggestions to take account of the person and what is possib
 <br>
 **Weeks and months after**
 Keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+<br>

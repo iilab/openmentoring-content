@@ -7,7 +7,9 @@ Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experi
 Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
 <br>
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
-
+<br>
+![](recap.png)
+<br>
 # Effects of PTSD
 The specific symptoms of PTSD can vary widely between individuals, but generally fall into the categories described in the following cards.
 <br>
@@ -35,7 +37,9 @@ This state of mind is known s hyper-arousal. Hyper-arousal often leads to irrita
 - drug misuse or alcohol misuse
 - headaches, dizziness, chest pains and stomach aches
 - PTSD sometimes leads to work-related problems and the breakdown of relationships.
-
+<br>
+![](recap.png)
+<br>
 # Dealing with PTSD
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
 <br>
@@ -49,3 +53,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
+<br>
+![](recap.png)
+<br>
