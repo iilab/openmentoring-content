@@ -22,3 +22,6 @@ Is your website down? Has it been defaced?
 
 <br>
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
+
+<br>
+![](recap.png)
