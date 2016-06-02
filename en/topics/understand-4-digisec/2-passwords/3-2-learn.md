@@ -2,7 +2,7 @@
 title: Choosing a strong password
 ---
 
-A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it.
+A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
 <br>
 # Make it long:
 The longer a password is, the longer it takes to guess it. Use more than ten characters or ideally a long phrase or sentence.
