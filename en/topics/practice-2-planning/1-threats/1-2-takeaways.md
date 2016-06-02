@@ -1,7 +1,6 @@
 ---
-title: "Key takeaways"
+title: Learn about
 published: true
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [What are threats?](en/topics/practice-2-planning/1-threats/3-1-learn.md)
+- [Conducting a threat assessment](en/topics/practice-2-planning/1-threats/3-2-learn.md)

@@ -1,7 +1,6 @@
 ---
-title: Conducting a threat assessment
+title: Five steps to Conducting a threat assessment
 ---
-There five steps to conducting a threat assessment:
 
 > Step 1.
 # What do you want to protect?
