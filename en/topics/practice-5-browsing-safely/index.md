@@ -1,3 +1,3 @@
 ---
-title: Using the Internet Anonymously
+title: Browsing safely
 ---

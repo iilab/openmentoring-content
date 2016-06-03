@@ -1,4 +1,4 @@
 ---
-title: "Getting Started with Signal"
+title: Using Veracrypt
 order: 0
 ---
