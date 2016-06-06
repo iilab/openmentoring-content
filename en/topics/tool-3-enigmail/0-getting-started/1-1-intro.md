@@ -1,4 +1,4 @@
 ---
-title: Getting started with Signal
+title: Getting started with Enigmail
 ---
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
+Learn how to install and use Enigmail, a free and open source Thunderbird add-on that lets you protect the privacy of your email communication.
