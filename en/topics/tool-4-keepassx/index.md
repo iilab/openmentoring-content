@@ -1,4 +1,4 @@
 ---
-title: Using Signal
-source: https://securityinabox.org/en/guide/textsecure/android
+title: Using KeepassX
+source: https://securityinabox.org/en/guide/keepassx/os-x
 ---
