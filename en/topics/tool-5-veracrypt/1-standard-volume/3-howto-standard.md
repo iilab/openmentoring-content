@@ -41,15 +41,15 @@ If you want to create a VeraCrypt container on a USB storage device, simply navi
 <br>
 # Step 8. Save your encrypted volume
  Click [Save] once you have determined a location and chosen name for your VeraCrypt container file:
- ![08.png](08.png)
+![06.png](06.png)
 <br>
 # Step 9. Configure your encryption Options
 Click [Next] to configure your Encryption Options
-![09.png](09.png)
+![07.png](07.png)
 <br>
 # Step 10. Configure volume size
 Click [Next] to select a volume size
-![10.png](10.png)
+![08.png](08.png)
 <br>
 The Volume Size window lets you specify the size of the container you are about to create. In this section, we will create a 250 MB volume, but you might want to specify a different size.
 <br>
@@ -63,14 +63,14 @@ Type the size of the volume you would like to create. Make sure you select the c
 <br>
 # Step 12. Choose a passphrase
 Click [Next] to choose a passphrase and refer to the [password lesson](en/topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so safely
-![11.png](11.png)
+![09.png](09.png)
 <br>
 # Step 13. Enter your new passphrase
 Type your passphrase and then re-type it into the Confirm field to activate the Next button.
 <br>
 #Step 14. Select filesystem type
 Click [Next] to select a filesystem type
-![12.png](12.png)
+![10.png](10.png)
 <br>
 Note: The default value ("FAT") will work for most people and is compatible with Linux, Windows and Mac OS X computers. However, if you intend to store files that are larger than 4 GB (for a single file), then you will have to select a different Filesystem type.
 <br>
@@ -78,7 +78,7 @@ Linux Ext2 will only work on Linux computers, and NTFS will work on Windows comp
 <br>
 # Step 15. Add random data
 Click [Next] after choosing an appropriate Filesystem type
-![13.png](13.png)
+![11.png](11.png)
 <br>
 VeraCrypt is now ready to create a standard encrypted volume within a container file. If you move your mouse within the VeraCrypt Volume Creation Wizard window, it will produce random data that will help strengthen the encryption.
 <br>
@@ -86,7 +86,7 @@ VeraCrypt is now ready to create a standard encrypted volume within a container 
 Click [Format] to begin creating your standard volume.
 <br>
 VeraCrypt will let you know when it has finished creating your encrypted volume.
-![14.png](14.png)
+![12.png](12.png)
 <br>
 # Step 17. Click [OK]
 ![13.png](13.png)
