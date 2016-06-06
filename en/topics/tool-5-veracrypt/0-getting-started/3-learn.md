@@ -1,7 +1,10 @@
 ---
 title: Things you should know about VeraCrypt
 ---
-VeraCrypt will protect your files by encrypting them with a passphrase. It creates a protected area, called a volume, on your computer or external storage device.
+
+VeraCrypt works like an electronic safe in which you can securely store your files.
+<br>
+It protects your files by encrypting them with a passphrase. It creates a protected area, called a volume, on your computer or external storage device.
 <br>
 This entire volume lives inside a single file called a container, which you can open (or mount) and close (or dismount) using VeraCrypt. You can safely store your files inside this container.
 <br>
