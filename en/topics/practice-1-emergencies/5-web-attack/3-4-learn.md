@@ -28,8 +28,8 @@ Have your webmaster move your site to a DDoS mitigation service. Examples:
 <br>
 
 If you are doing this yourself...FIND A RESOURCE THAT EXPLAINS HOW TO DO THIS
->Step 4
-#Review your needs
+> Step 4
+# Review your needs
 
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 <br>
