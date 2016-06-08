@@ -1,5 +1,5 @@
 ---
-title: Learn how to
+title: Learn about
 published: true
 ---
 - What should go into an emergency plan

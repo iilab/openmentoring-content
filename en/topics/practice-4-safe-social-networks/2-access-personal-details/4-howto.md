@@ -1,6 +1,9 @@
+---
+title: Controlling personal information on your Facebook profile
+---
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
 <br>
-For instance going to About > Contact & Basic Info you can see your date of birth:
+Go to About > Contact & Basic Info you can see your date of birth:
 
 ![Screen Shot 2015-11-20 at 16.54.51.png](Screen Shot 2015-11-20 at 16.54.51.png)
 <br>

@@ -1,4 +1,8 @@
+---
+title:
+---
 > This section needs to be bulked up significantly
+
 
 Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
 <br>

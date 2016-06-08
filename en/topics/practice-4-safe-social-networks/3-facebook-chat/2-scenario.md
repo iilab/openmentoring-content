@@ -1,1 +1,3 @@
-Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
+Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
+<br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
