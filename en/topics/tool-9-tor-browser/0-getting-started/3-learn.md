@@ -8,9 +8,12 @@ Your government and hackers around the world are increasingly interested in know
 The Tor Browser is a service that provides both privacy and anonymity online by masking who you are and where you are connecting. The service also protects you from the Tor network itself.
 <br>
 For people who might need occasional anonymity and privacy when accessing websites, Tor Browser provides a quick and easy way to use the Tor network.
+<br>
 Tor can also be useful as a secure means of circumventing electronic restrictions so that you may access or publish blogs and news reports.
 <br>
-Tor protects your anonymity by routing communications through a distributed network of servers run by volunteers from all over the world. Using Tor hides the sites you visit from potential onlookers, and hides your location/identity from those sites.
+Tor protects your anonymity by routing communications through a distributed network of servers run by volunteers from all over the world.
+<br>
+Using Tor hides the sites you visit from potential onlookers, and hides your location/identity from those sites.
 <br>
 Tor also takes steps to encrypt the communication to and through its network, but this measure can not extend all the way to a website which is sending or receiving content over non-encrypted channels (i.e. not providing https access).
 <br>
@@ -18,8 +21,10 @@ Nevertheless, the advantage of using Tor when accessing such sites is that Tor c
 <br>
 The Tor Browser Bundle consists of the Tor software and a modified version of the Firefox web browser, which is designed to provide extra protection while using it. The browser bundle also includes [NoScript](https://securityinabox.org/en/guide/firefox/windows#801t) and [HTTPS-Everywhere](https://securityinabox.org/en/guide/firefox/windows#804) add-ons.
 <br>
+For instructions on installing the Tor Browser Bundle, refer to the [detailed guide](https://securityinabox.org/en/guide/torbrowser/windows) Tactical Tech has put together
+<br>
 **Note:** There is a trade-off between anonymity and speed. Because Tor facilitates anonymous browsing by bouncing your traffic through volunteers' computers and servers in various parts of the world, it will definitely be slower than using other web browsers on your computer.
-
+<br>
 # Definitions
 - Bridge Relay: A Bridge Relay is a Tor server that is not publicly announced. If you choose to use a bridge, the server can provide you with access to the Tor network even if Tor is blocked in your country.
 <br>
