@@ -1,11 +1,6 @@
 ---
-title: Key takeaways
+title: Learn about
 published: true
 ---
-Key takeaways from this topic include learning about the following:
-- [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
-- [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md)
-- [Metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md)
-- [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-intro.md)
-- [Protecting your identity](en/topics/understand-4-digisec/5-protect-identity/1-intro.md)
-- [Establishing trust](en/topics/understand-4-digisec/6-trust/1-intro.md)
+- [Seven steps to digital security](en/topics/understand-4-digisec/0-getting-started/3-1-learn.md)
+- [Choosing the right digital security lesson](en/topics/understand-4-digisec/0-getting-started/3-2-learn.md)
