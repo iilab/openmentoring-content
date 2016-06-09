@@ -1,7 +1,6 @@
 ---
 title: Hidden stories in metadata
 ---
-
 # Picture metadata
 When you take a picture with your digital camera, what happens? If your camera or phone knows where you are, then that information (in the form of GPS coordinates) can be saved in the metadata of the file.
 <br>
