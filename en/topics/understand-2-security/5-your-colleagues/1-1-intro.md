@@ -3,4 +3,4 @@ title: Your colleagues
 source:
 ---
 
-Learn about security practices for your colleagues.
+Learn about how to talk about security with your colleagues.

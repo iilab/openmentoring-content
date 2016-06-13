@@ -2,7 +2,14 @@
 title: Talking about security with your colleagues
 source: link to level up resources on working with people who don't want to learn
 ---
-
->talking about security - impact things can have with your colleagues rather than putting on a brave face/pretending these risks do not exist. this promotes a culture of carelessness.
-
->talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
+Talking about security is courageous. Failing to talk about security, or or pretending risks do not exist, promotes a culture of carelessness.
+<br>
+Sometimes, though, it can be hard to talk about security with your colleagues.
+<br>
+You might face opposition from those who feel talking about security takes away valuable time you could spend doing your jobs. Your colleagues might even put on a brave face and pretending these risks do not exist.
+<br>
+It's also possible you might feel this way yourself.
+<br>
+When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.
+<br>
+To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
