@@ -1,6 +1,5 @@
 ---
 title: "Your security"
-published: true
 source: Protection of Journalists: [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)
 ---
 ![](recap.png)

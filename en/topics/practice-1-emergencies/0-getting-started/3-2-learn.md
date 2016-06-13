@@ -1,5 +1,6 @@
 ---
 title: Choose the right lesson
+image: recap.png
 ---
 If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
 * Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
@@ -24,4 +25,4 @@ Is your website down? Has it been defaced?
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
 
 <br>
-![](recap.png)
+> You've just learned the different lessons available for **Dealing with emergencies**
