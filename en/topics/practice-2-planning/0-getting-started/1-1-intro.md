@@ -1,8 +1,5 @@
 ---
 title: "Getting Started"
-source:
+image: ![](unit.png)
 ---
-
-![](unit.png)
-
 Learn to identity threats and risks you may face as a journalist or human rights defender.
