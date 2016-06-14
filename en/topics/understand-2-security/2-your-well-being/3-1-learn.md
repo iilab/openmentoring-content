@@ -1,80 +1,51 @@
 ---
-title: Getting to grips with fear
-source: Level-up: [The Psychological Underpinnings of Security Training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
+title: Build your emotional resilience
+source: Level-up
 ---
-Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
+# Dealing with trauma
+Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
 <br>
-When our "fear buttons" are pressed, our bodies are preparing to enact our instinctual responses to danger. Your body will react in one of seven ways:
-
-> 1.
-# Freeze
-
-This response involves a person becoming utterly still—although highly alert—and ready for action. The strategy is to escape notice until the danger has passed.
+# Professions where trauma is common
+This includes psychologists, counselors, journalists, nurses, paramedics, as well as police officers and other emergency personnel.
 <br>
-
-A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
+# Two-pronged emotional risk
+The emotional risk is two-pronged: burnout and vicarious traumatization.
 <br>
-![](recap.png)
-> 2.
-# Flight
-
-This response is the strategy that puts as much distance as possible between us and danger. In the bank robbery example, we might imagine a customer who leaps over a desk and breaks down a door to get away.
+# Burnout
+Burnout refers to long-term exhaustion caused by working too hard, for too long, and without sufficient support. It has been linked to a range of emotional and physical health problems, as well as poor performance in the workplace.
 <br>
-You might experience this in your work when sources or colleagues stop listening to you, evading or changing the subject, talking to a neighbor, or crack inappropriate jokes.
+# What causes burnout
+While exposure to threats or trauma is not a necessary feature of burnout, more emotionally demanding responsibilities place workers at greater risk.
 <br>
-![](recap.png)
-> 3.
-# Comply
-
-This response involves completely submitting to the aggressor in the hopes that cooperation will result in the attack ending quickly and without injury.
+# Preventing burnout
+The prevention of burnout requires a two-part strategy. The prevention of burnout is a shared responsibility between you and your employer.
 <br>
-In the bank robbery example, this could be an employee who assists the robbers in opening the safe, packing up the money, and escaping.
+# 1. Organisational prevention of burnout
+Organizations must ensure a healthy work environment; appropriate levels of training, supervision, and support; reachable expectations and targets; as well as regular vacation time.
 <br>
-In your work, you may see this with people participating in something they find particularly uncomfortable. They do this in the mindset that if they just cooperate they will get through it quickly and will then be able to move on to less distressing work.
+# 2. Personal prevention of burnout
+You should educate yourself of the risks of burnout, monitor your own emotional health, and actively sustain your own emotional health.
 <br>
-![](recap.png)
-> 4.
-# Tend and Befriend
-
-This response aims to ensure survival by getting closer to other human beings. We protect and care for those who are injured and more vulnerable, and we try to build relationships with those who are stronger and can protect and care for us.
+# Dealing with burnout
+If you are suffering from burnout , the key to recovery is rest. It is essential that the you take time away from work to recover their emotional health.
 <br>
-In extreme cases we might even try to befriend an aggressor—commonly referred to as Stockholm Syndrome.
+# Preventing future recurrence
+During this period, it is important to examine and redesign the work situation that led to the problem in the first place. In addition, stress management training might help prevent future recurrence.
 <br>
-In the bank robbery situation, an instance where a customer draws children together, comforts and quiets them so as to reduce the danger is perfect example of this response method.
+# Vicarious Traumatisation
+Vicarious traumatisation refers to traumatic stress arising from exposure to the frightening experiences of others.
 <br>
-In doing so, she gains the respect and gratitude of the parents in the room. Should violence ensue, it is more likely those parents will act to protect and care for her. At the heart of this response is the fact that human beings are social creatures and we draw together in times of danger.
+# Symptoms of vicarious trauma
+In most cases, vicarious traumatisation shares the features of the [traumatic stress reaction](en/topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
 <br>
-In your work, you may see this with colleagues becoming overly concerned for each other’s well-being—a sign that they themselves might be experiencing distress.
+# Loss of faith in others
+In some cases, vicarious traumatisation takes the form of a loss of faith in the essential goodness of others and a growing sense that one’s work is meaningless.
 <br>
-![](recap.png)
-> 5.
-# Posture
-
-This response is an attempt to drive off the danger by pretending to have greater physical strength than one actually does.
+# Preventing vicarious traumatisation
+The prevention of vicarious traumatisation requires limiting exposure to distressing stories or increasing the capacity to process traumatic material.
 <br>
-Going back to the bank robbery, a manager may confront the robbers with the lie that a silent alarm has been activated and the police are on their way.
+# Ongoing support
+While the former may be difficult for many people due to the demands of their jobs, regular supervision and ongoing support is helpful for the latter.
 <br>
-In your work, you may see this with colleagues becoming argumentative and obstructive in order to undermine the authority of the trainer.
-<br>
-![](recap.png)
-> 6.
-# Fight
-
-This response is the strategy of destroying or driving off the threat by attacking.
-<br>
-In the bank robbery situation, this would involve one or more people physically attacking the robbers, with or without weapons.
-<br>
-In your work, you might see this by a colleague being blamed for or even insulting another colleague for distress they are experiencing.
-<br>
-![](recap.png)
-> 7.
-# Dissociation
-
-The Dissociation Response is characterized by the slowing of heart rate and breathing, a drop in blood pressure, and the person feeling calm and disconnected from the frightening reality in which they find themselves.
-<br>
-In the situation of the bank robbery, we might imagine a customer starting to giggle inappropriately or merely drifting off into a dreamlike state.
-<br>
-You might see this in your work if someone experiencing great distress becomes emotionally disconnected or inappropriate. Uncontrollable laughter when nothing is funny or daydreaming may both be signs of dissociation.
-<br>
-Dissociation is a sign of serious traumatization.
-![](recap.png)
+#  Seek out counseling
+If you are suffering from vicarious traumatisation, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.

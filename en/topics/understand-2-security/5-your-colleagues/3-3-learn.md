@@ -1,6 +1,6 @@
 ---
 title: Talking about security with your colleagues
-source: 
+source:
 ---
 Talking about security is courageous. Failing to talk about security, or or pretending risks do not exist, promotes a culture of carelessness.
 <br>

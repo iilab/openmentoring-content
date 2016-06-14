@@ -1,42 +1,60 @@
 ---
-title: Build your emotional resilience
-source: Level-up
+title: Effects of traumatic stress
 ---
-Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
-<br.
-This includes psychologists, counselors, journalists, nurses, paramedics, as well as police officers and other emergency personnel.
+# Immediate numbness
+At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
 <br>
-The emotional risk is two-pronged: burnout and vicarious traumatization.
+# Shock
+Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
 <br>
-# Burnout
-Burnout refers to long-term exhaustion caused by working too hard, for too long, and without sufficient support. It has been linked to a range of emotional and physical health problems, as well as poor performance in the workplace.
+# Other feelings
+Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
 <br>
-While exposure to threats or trauma is not a necessary feature of burnout, more emotionally demanding responsibilities place workers at greater risk.
+# Trauma is strong
+People react differently and take different amounts of time to come to terms with a traumatic event. Even so, you may be surprised by the strength of your feelings.
 <br>
-The prevention of burnout requires a two-part strategy. The prevention of burnout is a shared responsibility between you and your employer.
+# Emotional
+*Frightened* — that the same thing will happen again, or that you might lose control of your feelings and break down
 <br>
-1. Organizations must ensure a healthy work environment; appropriate levels of training, supervision, and support; reachable expectations and targets; as well as regular vacation time.
+# Emotional
+*Helpless* - that something really bad happened and you could do nothing about it.
 <br>
-2. You should educate yourself of the risks of burnout, monitor your own emotional health, and actively sustain your own emotional health.
+# Emotional
+*Angry* — about what has happened and with whoever was responsible
 <br>
-If you are suffering from burnout , the key to recovery is rest. It is essential that the you take time away from work to recover their emotional health.
+# Emotional
+*Guilty* — that you have survived when others have suffered or died
 <br>
-During this period, it is important to examine and redesign the work situation that led to the problem in the first place. In addition, stress management training might help prevent future recurrence.
+# Emotional
+*Sad* - particularly if people were injured or killed, especially someone you knew.
 <br>
-![](recap.png)
+# Emotional
+*Ashamed or embarrassed* — that you have these strong feelings you can’t control, especially if you need others to support you
 <br>
-# Vicarious Traumatization
-Vicarious traumatization refers to traumatic stress arising from exposure to the frightening experiences of others.
+# Emotional
+*Relieved* - that danger is over and that the danger has gone.
 <br>
-In most cases, vicarious traumatization shares the features of the [traumatic stress reaction](en/topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
+# Emotional
+*Hopeful* - that your life will return to normal. People can start to feel more positive about things quite soon after a trauma.
 <br>
-In some cases, vicarious traumatization takes the form of a loss of faith in the essential goodness of others and a growing sense that one’s work is meaningless.
+# Physical
+Strong feelings affect your physical health. In the weeks after a trauma, you may find that you:
 <br>
-The prevention of vicarious traumatization requires limiting exposure to distressing stories or increasing the capacity to process traumatic material.
+- Cannot sleep
+- Feel very tired
+- Dream a lot and have nightmares
 <br>
-While the former may be difficult for many people due to the demands of their jobs, regular supervision and ongoing support is helpful for the latter.
+# Physical
+- Have poor concentration
+- Have memory problems
+- Have difficulty thinking clearly
+- Suffer from headaches
 <br>
- If you are suffering from vicarious traumatization, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
- <br>
- ![](recap.png)
- <br>
+# Physical
+- Experiences change in appetite
+- Experiences changes in sex-drive or libido
+- Have aches and pains
+- Feel that your heart is beating faster.
+<br>
+# Physical
+It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
