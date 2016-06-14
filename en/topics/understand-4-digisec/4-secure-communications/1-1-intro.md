@@ -1,1 +1,5 @@
-This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
+---
+title: Getting started with secure communications
+source: Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
+---
+Learn about using secure communications.
