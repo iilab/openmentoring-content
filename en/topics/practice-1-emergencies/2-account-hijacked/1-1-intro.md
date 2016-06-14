@@ -1,7 +1,6 @@
 ---
 title: "Seeking help"
-source:
-- [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
+source: [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 image: unit.png
 ---
 

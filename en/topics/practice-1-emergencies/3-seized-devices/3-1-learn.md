@@ -1,8 +1,8 @@
 ---
 title: Assess the situation
-published: true
+image: ![](recap.png)
 ---
-![](recap.png)
+
 # Appropriate response
 How did you lose your device? Was it stolen by another person, taken by a state authority, or did you simply lose track of it? If this is an adversary you need to develop [an appropriate response](en/topics/practice-2-planning/1-threats/1-1-intro.md).
 <br>
