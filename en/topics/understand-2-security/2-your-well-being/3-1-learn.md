@@ -11,6 +11,7 @@ When our "fear buttons" are pressed, our bodies are preparing to enact our insti
 
 This response involves a person becoming utterly still—although highly alert—and ready for action. The strategy is to escape notice until the danger has passed.
 <br>
+
 A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
 <br>
 ![](recap.png)

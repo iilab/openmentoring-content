@@ -2,9 +2,9 @@
 title: "Learn about"
 published: true
 ---
-- Roles in the news cycle and security.  
-- Sharing of information with your teams
-- [Talking about security with your colleagues](link to level up resources on working with people who don't want to learn)
+- Team configurations
+- [Sharing of information with your teams](en/topics/understand-2-security/5-your-colleagues/3-2-learn.md)
+- [Talking about security with your colleagues](en/topics/understand-2-security/5-your-colleagues/3-3-learn.md)
 
 
 
