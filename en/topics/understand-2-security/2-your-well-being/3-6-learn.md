@@ -1,11 +1,11 @@
 ---
-title: Effects of traumatic stress
+title: Effects of trauma
 ---
 # Immediate numbness
-At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
+At the time you experience a traumatic event, you might feel numb and unable to respond.
 <br>
 # Shock
-Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
+Immediately after a traumatic event, it is common to feel shocked, or dazed, or unable to process your own feelings.
 <br>
 # Other feelings
 Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
