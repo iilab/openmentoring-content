@@ -6,6 +6,30 @@
 
 > 'be careful with each other, so that we can be dangerous together.”
 
+
+- things to consider about security
+ - physical security
+  -
+  -
+  -
+  -
+ - well-being
+  - [Stress and security](en/topics/understand-2-security/2-your-well-being/3-0-learn.md)
+  - [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
+  - [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-2-learn.md)
+  - [Stress following trauma](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
+  - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
+  - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+  - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
+
+ - your story
+  - [keeping data safe] making sure your story can carry on, keeping your documents in safe places and having backups
+  - [preparing for the worst] preparing how others could keep up your story if something happens to you
+  - [information security] security of people involved and of information you are accumulating (direct people to infosec, tor, encryption, secure communications)
+
+ - your sources
+ - your colleagues
+  - 
 ---
 source: https://holistic-security.tacticaltech.org/chapters/prepare/chapter-1-1-what-is-holistic-security
 ---
