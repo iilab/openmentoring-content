@@ -1,5 +1,6 @@
 ---
 title: Identifying chronic stress
+source: Level-up
 ---
 # Healthy levels of stress
 With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.

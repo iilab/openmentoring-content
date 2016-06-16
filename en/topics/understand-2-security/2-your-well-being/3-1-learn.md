@@ -1,6 +1,6 @@
 ---
 title: Build your emotional resilience
-source: Level-up
+source: Level-up; Tactical Technology Collective: The Holistic Security Manual
 ---
 # Dealing with trauma
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.

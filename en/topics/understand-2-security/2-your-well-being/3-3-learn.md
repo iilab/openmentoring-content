@@ -1,5 +1,6 @@
 ---
 title: Symptoms of chronic stress
+source: Level-up
 ---
 # Physical
 - Exhaustion
