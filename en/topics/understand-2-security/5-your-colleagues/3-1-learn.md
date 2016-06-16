@@ -1,8 +1,12 @@
 ---
 title: Team configurations
-source:
+source: SaferJourno: Digital Security Resources for Media Trainers
 ---
-
-> security of colleagues - bring in links in a chain. security of one is department to all. if your colleagues have information they don’t need access to, they get beat up with a wrench.  “the security of your colleagues is part of your own security.
-
-> team configurations - stringers, people in field, think bout people’s infosec/opsec who you are working with. talk about the differnent roles that could exist and shed a security light on each these roles, from the stringer to the driver, to the journalist, editor, people in editing room,
+# Weakest link
+As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
+<br>
+# Security for all
+When developing a security plan with your colleagues, be sure to include people in all roles of your organisation.
+<br>
+# Positions to include
+For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.

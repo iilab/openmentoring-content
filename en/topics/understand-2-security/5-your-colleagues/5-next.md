@@ -1,8 +1,7 @@
 ---
-- (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
-- (en/topics/understand-2-security/2-your-well-being/1-intro.md): Your well-being
-- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Your mission
-- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Your story
-- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): Your sources
+- (en/topics/understand-3-opsec/0-getting-started/1-1-intro.md): Operational Security
+- (en/topics/practice-2-planning/0-getting-started/1-1-intro.md): Planning and Preparing
+- (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md): Secure Communications
 ---
-See also: 
+See also:
+- Internews: [SaferJourno: Digital Security Resources for Media Trainers](saferjourno.internews.org/pdf/SaferJourno_Guide.pdf)
