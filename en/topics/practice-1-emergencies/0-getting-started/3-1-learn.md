@@ -1,6 +1,7 @@
 ---
 title: "Verify if the problem is real"
-image: recap.png
+images:
+- recap1.svg
 ---
 
 You might want to seek help, but assessing the situation first can help you fix the problem on your own or be more prepared when you reach out for help.

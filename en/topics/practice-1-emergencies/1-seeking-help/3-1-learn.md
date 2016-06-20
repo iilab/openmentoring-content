@@ -1,7 +1,7 @@
 ---
 title: Unencrypted channels
-published: true
-image: ![](recap.png)
+images:
+- recap1.svg
 ---
 # Normal communications
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.

@@ -1,7 +1,5 @@
 ---
 title: "Establishing trust when reaching out"
-published: true
-image: ![](recap.png)
 ---
 # Always establish trust
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.

@@ -1,7 +1,5 @@
 ---
 title: Dealing with insecure channels
-published: true
-image: ![](recap.png)
 ---
 # Reaching out for help
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.

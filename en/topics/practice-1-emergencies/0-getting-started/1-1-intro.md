@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
-image: unit.png
+images:
+- unit.svg
 ---
 Learn how to recognise and deal with the most common types of digital threats.

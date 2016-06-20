@@ -1,8 +1,8 @@
 ---
 title: "A suspicious email..."
 images:
-  - scenario.png
-  - scenario.png
+- scenario1.svg
+- scenario2.svg
 ---
 While working on a new story Brenda received an email about suspicious activity on her account. She wants to find out if this is a real threat.
 <br>

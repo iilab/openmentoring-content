@@ -1,7 +1,8 @@
 ---
 title: "Seeking help..."
-- ![](scenario.png)
-- ![](scenario.png)
+images:
+- scenario1.svg
+- scenario2.svg
 ---
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
