@@ -2,5 +2,4 @@
 title: "Getting Started"
 source:
 ---
-
-Learn to implement common computer hygiene practices.
+Learn to use common computer hygiene practices.
