@@ -1,5 +1,5 @@
 ---
-title: Sharing of information
+title: Information compartmentalisation
 source:
 ---
 # Information security
@@ -9,7 +9,7 @@ Think about what kinds of information you share with your colleagues and what in
 Sharing information with your colleagues about your sources and research means that they will be able to continue your important investigations should something unexpected arise.
 <br>
 # 'Need to know' basis
-On the other hand, sharing information only on a 'need to know' basis means you might be better able to prevent infiltration by adversaries.
+On the other hand, sharing information only on a 'need to know' basis means you might be better able to protect people and prevent [infiltration by adversaries](link to future lesson).
 <br>
 # Sharing security
 Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
