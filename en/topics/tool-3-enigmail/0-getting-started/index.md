@@ -1,4 +1,4 @@
 ---
-title: "Getting Started with Signal"
+title: "Getting Started with Enigmail"
 order: 0
 ---
