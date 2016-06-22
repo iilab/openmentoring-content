@@ -35,3 +35,4 @@ Why would they want access to it? This will help you know whether the informatio
 
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
 <br>
+> Beware of malware!
