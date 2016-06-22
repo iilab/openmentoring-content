@@ -22,3 +22,4 @@ Turn on 2-factor authentication for all accounts that were accessible by this de
 # Erase data from device
 
 If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
+<br>

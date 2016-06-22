@@ -14,3 +14,4 @@ Did you use encryption tools for email or chat (such as PGP and OTR)? This will 
 <br>
 # Reviewing your passwords
 Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
+<br>
