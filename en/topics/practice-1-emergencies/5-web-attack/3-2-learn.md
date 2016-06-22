@@ -11,3 +11,4 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 <br>
 # Fixing it yourself
 If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
+<br>
