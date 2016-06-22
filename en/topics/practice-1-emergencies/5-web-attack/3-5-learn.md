@@ -51,3 +51,4 @@ Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can sup
 # Detecting and preventing attacks
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 <br>
+> Restore your original website 

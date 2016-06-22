@@ -12,3 +12,4 @@ In many cases, this maybe an innocent and frustrating problem. But on occasion, 
 # Overloading the website
 A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
 <br>
+> DDOS attacks repeatedly view a webpage to overload the server
