@@ -1,6 +1,5 @@
 ---
 title: "Is your website defaced?"
-published: true
 image:
 - recap4.svg
 

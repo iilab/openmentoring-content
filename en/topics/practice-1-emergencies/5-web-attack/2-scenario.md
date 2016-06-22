@@ -1,8 +1,8 @@
 ---
 title: A down website
 image:
-- ![](scenario.png)
-- ![](scenario.png)
+- scenario1.svg
+- scenario2.svg
 ---
 Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
 <br>

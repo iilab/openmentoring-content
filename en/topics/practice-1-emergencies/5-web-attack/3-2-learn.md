@@ -1,6 +1,5 @@
 ---
 title: "Rule out other reasons"
-published: true
 image:
 - recap2.svg
 ---

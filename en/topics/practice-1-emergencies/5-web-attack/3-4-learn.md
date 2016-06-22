@@ -1,6 +1,5 @@
 ---
 title: "Getting your site back up"
-published: true
 image:
 - recap3.svg
 

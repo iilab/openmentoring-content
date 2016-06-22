@@ -1,6 +1,5 @@
 ---
 title: "Learn how to"
-published: true
 ---
 - [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)

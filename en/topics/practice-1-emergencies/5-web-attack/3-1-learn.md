@@ -1,7 +1,6 @@
 ---
 title: "What is a DDOS attack?"
-published: true
-image:
+images:
 - recap1.svg
 ---
 # Silencing your voice
