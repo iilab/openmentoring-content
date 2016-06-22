@@ -1,6 +1,7 @@
 ---
 title: "If you get the device back"
-image: ![](recap.png)
+images:
+-  recap5.svg
 ---
 
 Ask yourself the following 4 questions and [assess the risk](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md) that your device has been compromised:

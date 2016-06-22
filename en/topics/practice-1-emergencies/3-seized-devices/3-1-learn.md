@@ -1,6 +1,7 @@
 ---
 title: Assess the situation
-image: ![](recap.png)
+images:
+- recap1.svg
 ---
 
 # Appropriate response

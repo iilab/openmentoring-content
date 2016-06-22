@@ -1,6 +1,7 @@
 ---
 title: If your device is still missing
-image: ![](recap.png)
+images:
+- recap4.svg
 ---
 > Step 1
 # Remove authorization

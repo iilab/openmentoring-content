@@ -1,8 +1,8 @@
 ---
 title: "A missing laptop..."
-image:
-- ![](scenario.png)
-- ![](scenario.png)
+images:
+- scenario1.svg
+- scenario2.svg
 ---
 Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
 <br>

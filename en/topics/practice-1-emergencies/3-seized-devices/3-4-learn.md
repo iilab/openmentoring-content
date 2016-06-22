@@ -1,6 +1,7 @@
 ---
 title: Contacts and linked accounts
-image: ![](recap.png)
+images:
+- recap3.svg
 ---
 # Who is at risk?
 
