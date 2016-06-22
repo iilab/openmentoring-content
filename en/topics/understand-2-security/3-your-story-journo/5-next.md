@@ -1,6 +1,8 @@
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+---
+- (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
+- (en/topics/tool-5-veracrypt/0-getting-started/1-1-intro.md): Safely store backups of your information with Veracrypt
+- (en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md): Conduct internet research safely using the Tor Browser
+- (en/topics/practice-2-planning/0-getting-started/1-1-intro.md): Learn how to plan and prepare for emergencies
+---
+See also:
+- Internews: [SaferJourno](https://www.internews.org/saferjourno-toolkit-provides-digital-and-online-safety-resources-journalism-and-media-trainers)

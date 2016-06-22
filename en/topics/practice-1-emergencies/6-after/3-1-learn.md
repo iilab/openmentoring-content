@@ -1,7 +1,7 @@
 ---
 title: "Revising emergency plans"
-published: true
-image: ![](recap.png)
+images:
+- recap1.svg
 ---
 # What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.

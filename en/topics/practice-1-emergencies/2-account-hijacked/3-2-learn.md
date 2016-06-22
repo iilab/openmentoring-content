@@ -1,6 +1,7 @@
 ---
 title: Confirm if your account has been hijacked
-image: ![](recap.png)
+images:
+- recap.png
 ---
 # Review account history
 For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.

@@ -7,4 +7,3 @@ title: "Learn how to"
 - [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
 - [Establish trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 - [Contact organisations for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
-<br>

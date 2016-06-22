@@ -1,7 +1,7 @@
 ---
 title: "Emergency funding"
-published: true
-image: ![](recap.png)
+images:
+- recap2.svg
 ---
 # Reach out for help
 Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.

@@ -1,7 +1,8 @@
 ---
 title: "Rule out other reasons"
 published: true
-image: ![](recap.png)
+image:
+- recap2.svg
 ---
 # Programming or technical problems
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.

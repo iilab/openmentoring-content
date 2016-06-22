@@ -1,7 +1,8 @@
 ---
 title: "Getting your site back up"
 published: true
-image: ![](recap.png)
+image:
+- recap3.svg
 
 ---
 > Step 1

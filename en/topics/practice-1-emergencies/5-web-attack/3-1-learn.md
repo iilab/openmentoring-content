@@ -1,7 +1,8 @@
 ---
 title: "What is a DDOS attack?"
 published: true
-image: ![](recap.png)
+image:
+- recap1.svg
 ---
 # Silencing your voice
 A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  

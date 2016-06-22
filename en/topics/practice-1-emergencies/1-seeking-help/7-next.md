@@ -5,6 +5,6 @@
 - en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
 - en/topics/tool-1-signal/0-getting-started: Find out about Signal for your encrypted communications
 ---
-To learn more about dealing with emergencies, see also:
+See also:
  * RiseUp [Communications Security](https://help.riseup.net/en/security)
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)

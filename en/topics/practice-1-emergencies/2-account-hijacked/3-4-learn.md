@@ -1,7 +1,8 @@
 ---
 title: Deal with being locked out of your account
 published: true
-image: ![](recap.png)
+images:
+-recap.svg
 
 ---
 # Password reset

@@ -1,6 +1,7 @@
 ---
 title: After an emergency
-image: unit.png
+images:
+- unit.svg
 ---
 
 Steps to take after an emergency has taken place.

@@ -1,8 +1,8 @@
 ---
 title: Re-evaluating emergency plans
-image:
-- ![](scenario.png)
-- ![](scenario.png)
+images:
+- scenario1.svg
+- scenario2.svg
 ---
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
 <br>

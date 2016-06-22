@@ -1,6 +1,7 @@
 ---
 title: "Seized devices"
-image: unit.png
+images:
+- unit.svg
 ---
 
 Learn what to do if your digital devices are taken.
