@@ -2,7 +2,7 @@
 title: Deal with being locked out of your account
 published: true
 images:
--recap.svg
+- recap3.svg
 
 ---
 # Password reset

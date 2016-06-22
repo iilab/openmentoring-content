@@ -1,7 +1,7 @@
 ---
 title: Get back control of your account
 images:
-- recap.svg
+- recap1.svg
 ---
 # Use a different computer
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
