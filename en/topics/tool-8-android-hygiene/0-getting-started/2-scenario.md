@@ -1,3 +1,0 @@
-![](scenario.png)
-
-![](scenario.png)
