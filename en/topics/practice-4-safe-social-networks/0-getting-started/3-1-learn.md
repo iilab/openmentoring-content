@@ -1,6 +1,5 @@
 ---
 title: "Social networking basics"
-published: true
 ---
 # What it does
 Social networking websites have greatly expanded the range of possible interactions, allowing you to share messages, pictures, files and even up-to-the-minute information about what you are doing and where you are.

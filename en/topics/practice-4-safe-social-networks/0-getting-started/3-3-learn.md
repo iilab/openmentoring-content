@@ -1,6 +1,5 @@
 ---
 title: "Who owns your data?"
-published: true
 ---
 # Private businesses
 Social networking sites are owned by private businesses who make their money by collecting data about people and selling that data on, particularly to third party advertisers.

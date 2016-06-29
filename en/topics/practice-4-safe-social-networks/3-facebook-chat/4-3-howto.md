@@ -1,6 +1,5 @@
 ---
 title: "Adding a Facebook account on Jitsi"
-published: true
 ---
 # Two settings to change
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.

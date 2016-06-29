@@ -1,8 +1,7 @@
 ---
-- understand-2-security/0-getting-started
-- internal-...
+- en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md: What to do if your account has been hijacked
+- en/topics/practice-1-emergencies/1-seeking-help/1-1-intro.md: Seeking help safely after an emergency
+-
 ---
-To learn more about XXX, see also:
- * [An external resource to study next](en/topics/_topic/_unit/index.md)
- * [Another resource](en/topics/_topic/_unit/index.md)
- * ...
+See also:
+- Electronic Frontier Foundation: Security Self Defense

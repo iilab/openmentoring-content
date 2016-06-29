@@ -1,6 +1,5 @@
 ---
 title: "Choose the right lesson"
-published: true
 ---
 Not sure where to start on controlling which people can see who you are connected to on social media?
 * Choose the [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md) lesson

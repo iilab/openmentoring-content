@@ -4,4 +4,4 @@
  - en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
 ---
  See also:
-* Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org)

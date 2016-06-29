@@ -1,6 +1,5 @@
 ---
 title: Learn how to
-published: true
 ---
 - [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
 - [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)

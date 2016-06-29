@@ -1,9 +1,9 @@
 ---
 title: Registering with Signal
 ---
+> Put in note here about being able to register Signal without tying it to your phone if you use a disposable SIM card, or if you download it from f-droid..but then you can't make calls.
 
 # Step 1: Register your phone number
-
 Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
 <br>
 

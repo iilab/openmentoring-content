@@ -1,7 +1,5 @@
 ---
-title: "Learn how to"
+title: "Learn about"
 published: true
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [Basics of communicating securely on smart phones](en/topics/practice-3-safe-phones/0-getting-started/3-learn.md)

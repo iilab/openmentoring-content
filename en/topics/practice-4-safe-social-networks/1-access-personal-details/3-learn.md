@@ -1,6 +1,5 @@
 ---
 title: What to post to social networking sites
-published: true
 ---
 # Be careful with what information you give
 Social networking sites ask you for a good deal of data about yourself to make it easier for other users to find and connect to you.

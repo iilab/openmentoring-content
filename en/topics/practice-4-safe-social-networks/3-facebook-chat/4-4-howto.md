@@ -1,6 +1,5 @@
 ---
 title: "Encrypting your Facebook instant messages"
-published: true
 ---
 # Step 1: Open security settings
 Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
