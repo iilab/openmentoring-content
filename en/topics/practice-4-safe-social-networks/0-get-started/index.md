@@ -1,3 +1,3 @@
 ---
-title: Get started with Social Networks 
+title: Get started with social networks 
 ---
