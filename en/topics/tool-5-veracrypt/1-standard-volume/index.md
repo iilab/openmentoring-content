@@ -1,3 +1,3 @@
 ---
-title: Creating a standard encrypted volume
+title: Create a standard encrypted volume
 ---
