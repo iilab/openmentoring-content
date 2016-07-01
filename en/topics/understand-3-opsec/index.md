@@ -9,8 +9,4 @@ sources:
     organisation: "Electronic Frontier Foundation"
     publication: "Security Self Defense"
     url: https://ssd.eff.org/
-    -
-      organisation: "Electronic Frontier Foundation"
-      publication: "Security Self Defense"
-      url: https://ssd.eff.org/
 ---
