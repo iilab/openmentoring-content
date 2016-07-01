@@ -1,5 +1,5 @@
 ---
-title: Seeking Remote Help
+title: Seek Remote Help
 order: 1
 duration: 5
 sources:

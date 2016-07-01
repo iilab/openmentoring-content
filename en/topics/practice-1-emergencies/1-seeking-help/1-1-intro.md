@@ -1,5 +1,5 @@
 ---
-title: "Seeking help"
+title: "Seek help"
 images:
 - unit.svg
 ---

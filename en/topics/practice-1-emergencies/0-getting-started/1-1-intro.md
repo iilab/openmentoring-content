@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Get started"
 images:
 - unit.svg
 ---
