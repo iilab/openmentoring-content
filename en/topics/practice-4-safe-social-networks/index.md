@@ -1,4 +1,8 @@
 ---
 title: Safe Social Networks
-source: Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
+sources:
+ -
+    organisation: Tactical Technology Collective
+    publication: Security in a Box
+    url: https://securityinabox.org/
 ---
