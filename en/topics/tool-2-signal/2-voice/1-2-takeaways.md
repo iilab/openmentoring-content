@@ -1,7 +1,5 @@
 ---
-title: "Key takeaways"
-published: true
+title: Learn how to
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [Make a call](en/topics/tool-2-signal/2-voice/3-1-howto-android-content.md)
+- [Take a call](en/topics/tool-2-signal/2-voice/3-2-howto-android-content.md)
