@@ -1,4 +1,8 @@
 ---
 title: Using Enigmail
-source: https://securityinabox.org/en/guide/thunderbird/windows
+sources:
+  -
+    organisation: "Tactical Technology Collective"
+    publication: "Security in a Box"
+    url: https://securityinabox.org/
 ---
