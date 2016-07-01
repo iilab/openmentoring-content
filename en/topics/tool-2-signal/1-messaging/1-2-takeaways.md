@@ -1,7 +1,11 @@
 ---
-title: "Key takeaways"
+title: Learn how to
 published: true
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ - Send and receive messages
+ - Message individuals
+ - Message groups
+ - Identity verification
+ - Read fingerprints
+ - Scan fingerprints
+ - Export your messages
