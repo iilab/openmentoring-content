@@ -1,3 +1,3 @@
 ---
-title: How to chat securely?
+title: Chatting securely
 ---
