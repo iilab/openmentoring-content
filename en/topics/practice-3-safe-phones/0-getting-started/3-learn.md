@@ -1,6 +1,5 @@
 ---
 title: Safer communication on a smart phone
-source:
 ---
 # Your phone can reveal your identity
 Be aware that your smart phone is generally tied to your identity. This happens through billing, account services or SIM card registration. Your phone can also reveal your location.
