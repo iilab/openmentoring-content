@@ -5,17 +5,16 @@ published: true
 # 1. Knowledge is Power
 Good security decisions can't be made without good information. Your security tradeoffs are only as good as the information you have about the value of your assets, the severity of the threats from different adversaries to those assets, and the risk of those attacks actually happening.
 <br>
-# Identifying computer and communications threats
-This guide should help you gain the knowledge you need to identify the threats to your computer and communications security, and judge the risk against possible security measures.
-<br>
 # You know a lot!
-And some of this knowledge you already have: knowledge of your own situation, who might want to target you, and what resources they have. You already have more power than you think!
+Some of this knowledge you already have: knowledge of your own situation, who might want to target you, and what resources they have. You already have more power than you think!
 <br>
 # 2. The Weakest Link
 The old adage that "a chain is only as strong as its weakest link" applies to security too: The system as a whole is only as strong as the weakest component.
 <br>
+# Protect your information
 For example, the best door lock is of no use if you have cheap window latches. Encrypting your email so it won't get intercepted in transit won't protect the confidentiality of that email if you store an unencrypted copy on your laptop and your laptop is stolen.
 <br>
+# Take small steps
 That doesn't mean you have to do everything simultaneously, but it does mean that you should spend time thinking about every part of your information and computer use.
 <br>
 # 3. Simpler is Safer and Easier
@@ -57,4 +56,4 @@ A perfect security policy on paper won't work if it's too difficult to follow da
 It is also crucially important to continually re-evaluate your security practices. Just because they were secure last year or last week doesn't mean they're still secure!
 <br>
 # Keep up to date
-Keep checking sites like Security Self Defense, because we will update our advice to reflect changes in our understanding and the realities of digital security. Security is never a one-off act: it's a process.
+Keep checking respected sites advice will be updated to reflect changes in our understanding and the realities of digital security. Security is never a one-off act: it's a process.
