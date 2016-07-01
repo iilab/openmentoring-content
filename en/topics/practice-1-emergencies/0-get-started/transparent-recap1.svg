@@ -7,9 +7,6 @@
     </clipPath>
   </defs>
   <title>iiLAB -U1-concepts-01-STARTING</title>
-  <filter id="grayscale">
-       <feColorMatrix type="saturate" values="0"/>
-  </filter>
   <g class="cls-2" filter="url(#grayscale)" transform="translate(150 150)">
     <path class="cls-4" d="M413.08,351.34c3.22,0,3.22-5,0-5s-3.22,5,0,5h0Z"/>
     <polygon class="cls-5" points="203.04 170.76 382.89 258.98 416.72 454.04 130.72 517.64 83.68 312.64 203.04 170.76"/>
