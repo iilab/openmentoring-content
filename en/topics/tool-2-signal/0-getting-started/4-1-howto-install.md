@@ -10,7 +10,7 @@ On your Android device, download and install the app from the Google Play store 
 
 <br>
 # Alternate download
-Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+If you want to use Signal independently of Google Play Services, download [Libresignal](https://libraries.io/github/LibreSignal/LibreSignal) instead on [F-Droid](https://f-droid.org/) which allows all Signal functions except phone calls.
 <br>
 # Step 2: Review permissions
 Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
