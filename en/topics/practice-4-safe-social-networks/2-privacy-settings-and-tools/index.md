@@ -1,3 +1,3 @@
 ---
-title: How to control access to your personal details?
+title: Control access to your personal details
 ---
