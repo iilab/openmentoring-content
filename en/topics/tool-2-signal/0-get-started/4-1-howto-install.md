@@ -1,5 +1,5 @@
 ---
-title: Installing Signal in 3 steps
+title: Install Signal in 3 steps
 ---
 # Step 1. Download Signal
 On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
