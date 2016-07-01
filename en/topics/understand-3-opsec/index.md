@@ -1,5 +1,5 @@
 ---
-title: Understanding Operational Security
+title: Understand Operational Security
 sources:
   -
     organisation: "Tactical Technology Collective"
