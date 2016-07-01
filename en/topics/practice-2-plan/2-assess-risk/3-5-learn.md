@@ -1,5 +1,5 @@
 ---
-title: Mapping threats, capacities, and vulnerabilities
+title: Map threats, capacities, and vulnerabilities
 ---
 
 It may be helpful for you to map them out on a matrix, like this:

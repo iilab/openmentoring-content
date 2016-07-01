@@ -1,4 +1,4 @@
 ---
-title: Understanding Threats
+title: Understand Threats
 order: 1
 ---

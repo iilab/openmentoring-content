@@ -1,4 +1,4 @@
 ---
-title: Assessing Security Risks
+title: Assess security risks
 order: 1
 ---
