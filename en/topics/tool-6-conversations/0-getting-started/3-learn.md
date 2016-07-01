@@ -1,20 +1,23 @@
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+---
+title: Conversations basics
+---
+# Messaging App
+Conversations is an open source chat client that encrypts messages using a Jabber/XMPP client. It can also be used for group chats.
 <br>
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+# Encrypted content
+Using Conversations will prevent anyone from being able to read the content of your messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
 <br>
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+# Think about the risks
+In some countries, an encryption app such as Conversations may attract attention, be illegal or subject to legal constraints.
 <br>
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+# Installation guide
+Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-6-conversations/0-getting-started/4-1-howto-install.md) to learn how to do so.
 <br>
-This means that When you use Signal, you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
-
-
-Things You Should Know About This Tool Before You Start
- - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
- - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
- - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+# Requirements
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at https://conversations.im/
+<br>
+# Android versions
+In it's current form, Conversations requires Android 4.0 and up.
+<br>
+# Communicate with
+ Conversations is compatible all XMPP clients.

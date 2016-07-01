@@ -1,15 +1,10 @@
-Install Signal by following the following 3 steps:
-
-# Step 1. Download Signal
-
-On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
+---
+title: Installing Conversations
+---
+# Step 1. Download Conversations
+On your Android device, download and install the app from the Google Play store.
 <br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/002.png)
->Signal on the Google Play Store
-
-<br>
-Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+Alternatively download Conversations from [Github](https://github.com/siacs/Conversations)
 <br>
 # Step 2: Review permissions
 
@@ -19,9 +14,6 @@ Once your are happy with the permissions allowed, press and the installation wil
 <br>
 If you do not agree with the permissions allowed, press the back button and the installation will be cancelled.
 
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/004.png)
->Permissions required
-
 <br>
-# Step 3. Run Signal
+# Step 3. Run Conversations
 Tap Open to run the app for the first time
