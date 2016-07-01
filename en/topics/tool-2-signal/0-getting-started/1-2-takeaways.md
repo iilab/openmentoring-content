@@ -3,7 +3,7 @@ title: "Learn how to"
 published: true
 ---
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
- - [Install Signal on your smart phone](en/topics/tool-2-signal/0-getting-started/4-1-howto-install.md)
+ - [Install Signal on your smart phone ](en/topics/tool-2-signal/0-getting-started/4-1-howto-install.md)
  - [Register Signal on your smart phone](en/topics/tool-2-signal/0-getting-started/4-2-howto-install.md)
  - [Configure Signal](en/topics/tool-2-signal/0-getting-started/4-3-howto-install.md)
  <br>
