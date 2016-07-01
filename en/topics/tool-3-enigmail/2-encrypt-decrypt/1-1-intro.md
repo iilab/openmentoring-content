@@ -1,4 +1,4 @@
 ---
-title: Getting started with Enigmail
+title: Get started with Enigmail
 ---
 Learn to encrypt and decrypt messages using Enigmail

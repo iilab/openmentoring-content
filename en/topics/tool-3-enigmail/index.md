@@ -1,5 +1,5 @@
 ---
-title: Using Enigmail
+title: Use Enigmail
 sources:
   -
     organisation: "Tactical Technology Collective"
