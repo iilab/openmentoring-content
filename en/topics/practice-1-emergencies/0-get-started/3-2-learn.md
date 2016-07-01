@@ -20,7 +20,7 @@ Have you opened an attachment that you think may have been malicious? Does your 
 
 <br>
 Is your website down? Has it been defaced?
-* Choose the [DDOS Attack](topics/practice-1-emergencies/ddos.md) lesson.
+* Choose the [Website under attack](topics/practice-1-emergencies/ddos.md) lesson.
 
 <br>
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson explains how to prepare so you are ready for the next time.

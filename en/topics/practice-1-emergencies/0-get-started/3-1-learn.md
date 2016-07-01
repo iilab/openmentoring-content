@@ -12,3 +12,4 @@ Make sure you verify where the information is coming from. Was it via email? Did
 # Do you trust the source?
 Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
 <br>
+> Remember to verify where the information is coming from!
