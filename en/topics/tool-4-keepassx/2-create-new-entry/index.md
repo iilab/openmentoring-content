@@ -1,3 +1,3 @@
 ---
-title: How to have voice calls?
+title: Create a new entry
 ---
