@@ -1,4 +1,8 @@
 ---
 title: Using Signal
-source: https://securityinabox.org/en/guide/signal/android
+sources:
+  -
+    organisation: "Tactical Technology Collective"
+    publication: "Security in a Box"
+    url: https://securityinabox.org/
 ---
