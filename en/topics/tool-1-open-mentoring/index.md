@@ -1,3 +1,3 @@
 ---
-title: Using the Open Mentoring App
+title: Use Open Mentoring
 ---
