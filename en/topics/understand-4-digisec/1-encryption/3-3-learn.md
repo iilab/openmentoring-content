@@ -2,7 +2,7 @@
 title: Security certificates
 ---
 # Encryption with HTTPS
-The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names—(like www.google.com, www.amazon.com, or ssd.eff.org).
+The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names (like www.google.com, www.amazon.com, or ssd.eff.org).
 <br>
 # Verifying websites
 Certificates are one way of trying to determine if you know the right public key for a person or website, so that you can communicate securely with them.
