@@ -23,7 +23,8 @@ Is your website down? Has it been defaced?
 * Choose the [Website under attack](topics/practice-1-emergencies/ddos.md) lesson.
 
 <br>
-* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson explains how to prepare so you are ready for the next time.
+Have you just gotten through an emergency? Not sure what to do when the dust settles? Make sure to know how to prepare so you are ready for the next time.
+* The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson
 
 <br>
 > You've just learned the different lessons available for **Dealing with emergencies**
