@@ -1,3 +1,7 @@
-If you found this useful, you might be interested in reading the following units:
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
+---
+- en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Digital security Basics
+- en/topics/understand-4-digisec/1-encryption/1-1-intro.md: Learn about encryption
+---
+See also:
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+- Electronic Frontier Foundation: [Security Self-Defense](htps://ssd.eff.org)

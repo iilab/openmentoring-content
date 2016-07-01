@@ -1,5 +1,5 @@
 ---
-title: Sending and Receiving messages
+title: Send and Receive messages
 ---
 # You and your contact need Signal installed
 To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.

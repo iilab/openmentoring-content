@@ -1,4 +1,4 @@
 ---
-title: "Using Signal for encrypted messaging"
+title: "Use Signal for encrypted messaging"
 ---
 Learn to use Signal for encrypted messaging.

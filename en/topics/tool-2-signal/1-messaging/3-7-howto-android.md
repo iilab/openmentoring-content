@@ -1,5 +1,5 @@
 ---
-title: Exporting your messages
+title: Export your messages
 ---
 **Note:** While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
 <br>

@@ -1,5 +1,5 @@
 ---
-title: Reading fingerprints
+title: Read fingerprints
 ---
 # Basics
 To confirm that the messages you are sending and receiving are with the right person, you should both verify your Signal identities with each other by verifying fingerprints.

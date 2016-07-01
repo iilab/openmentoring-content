@@ -1,5 +1,5 @@
 ---
-title: Sending files
+title: Send files
 ---
 # Basics
 Signal allows you to send images, video and audio files to your contact.

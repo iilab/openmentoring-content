@@ -1,3 +1,3 @@
 ---
-title: How to use messaging?
+title: Use Signal messaging 
 ---
