@@ -1,5 +1,5 @@
 ---
-title: Use Enigmail
+title: Communicate with Signal
 sources:
   -
     organisation: "Tactical Technology Collective"

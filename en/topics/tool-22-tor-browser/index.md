@@ -1,5 +1,5 @@
 ---
-title: Using Signal
+title: Browse Privately with Tor Browser
 sources:
   -
     organisation: "Tactical Technology Collective"

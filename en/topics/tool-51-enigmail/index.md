@@ -1,5 +1,5 @@
 ---
-title: Orbot
+title: Encrypt Emails with Enigmail
 sources:
   -
     organisation: "Tactical Technology Collective"

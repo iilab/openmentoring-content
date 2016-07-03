@@ -1,5 +1,5 @@
 ---
-title: Tor Browser
+title: Browse Privately with Orbot
 sources:
   -
     organisation: "Tactical Technology Collective"
