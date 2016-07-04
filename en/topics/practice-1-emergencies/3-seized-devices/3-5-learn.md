@@ -11,7 +11,7 @@ When your device has access to accounts (email, social media or web account) rem
 > Step 2
 # Change passwords
 
-Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
+Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
 <br>
 > Step 3
 # Turn on 2-factor authentication

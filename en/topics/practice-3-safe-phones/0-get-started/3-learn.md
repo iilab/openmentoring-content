@@ -17,4 +17,4 @@ With csipsimple you can also make secure calls (such as from Ostel).
 RedPhone (for voice) and TextSecure (for SMS) by WhisperSystems are good, but both you and the person you are communicating with must be on Android (with these tools installed) in order for these tools to work.
 <br>
 # Secure Android messaging apps:
-Orbot by The Guardian Project and the Tor Project allows you to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. For more information, refer to the [Orbot lesson](en/topics/tool-10-orbot/0-getting-started/1-1-intro.md)
+Orbot by The Guardian Project and the Tor Project allows you to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. For more information, refer to the [Orbot lesson](topics/tool-10-orbot/0-getting-started/1-1-intro.md)

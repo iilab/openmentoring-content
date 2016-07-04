@@ -8,4 +8,4 @@ Start with the most secure form of communication you can manage and the person y
 In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
 <br>
 # Use alternate devices
-If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](topics/practice-1-emergencies/4-malware/1-intro.md) lesson.

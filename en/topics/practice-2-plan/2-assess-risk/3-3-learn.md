@@ -23,7 +23,7 @@ Supporting forces are our friends and allies, who try to support our project in 
 <br>
 As part of this 'actor mapping' exercise, you should also consider the actors who are on your side, whether local, regional or international: these could include friends, community members, police, other organisations, embassies and so on.
 <br>
-It will be important for you to spread your [digital security practices](en/topics/understand-4-digisec/0-getting-started/1-intro.md) among your allies.
+It will be important for you to spread your [digital security practices](topics/understand-4-digisec/0-getting-started/1-intro.md) among your allies.
 <br>
 
 # 3. Unknown forces

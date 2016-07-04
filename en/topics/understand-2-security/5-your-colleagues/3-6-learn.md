@@ -25,4 +25,4 @@ Your colleagues might even put on a brave face and pretending these risks do not
 When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.
 <br>
 # See also
-To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
+To learn how to develop security with your colleagues, refer to the [Operational Security](topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.

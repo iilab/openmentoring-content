@@ -27,4 +27,4 @@ If you are attaching any file to your message, you may need to select the option
 **Note:** When you encrypt each attachment separately, the names of the attached files are not encrypted and are being send in clear text! This may result in leaking sensitive information!
 <br>
 
-Using PGP/MIME ensures that all email text, attached files and their names are encrypted and hidden. Refer to the [metadata](en/topics/understand-4-digisec/3-metadata/1-1-intro.md) lesson to learn more about these dangers
+Using PGP/MIME ensures that all email text, attached files and their names are encrypted and hidden. Refer to the [metadata](topics/understand-4-digisec/3-metadata/1-1-intro.md) lesson to learn more about these dangers

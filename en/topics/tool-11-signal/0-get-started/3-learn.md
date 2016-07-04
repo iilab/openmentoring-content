@@ -14,7 +14,7 @@ Signal will only hide who the messages are being sent to if they are sent via th
 In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 <br>
 # Installation guide
-Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
+Before starting to use Signal, you must download it. Review [the installation guide](topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
 <br>
 # Requirements
 To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org

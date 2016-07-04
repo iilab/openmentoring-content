@@ -10,7 +10,7 @@ Type in a name for your KeePassX database and {click} Save. You can store it on 
 If you are worried that someone with access to your computer might see this file and demand that you tell them your master passphrase, you should probably come up with a less conspicuous name.
 <br>
 # Step 3. Confirm you remember your password
-Find and re-open your database using your [master passphrase](en/topics/tool-4-keepassx/1-create-database/3-1-howto.md) before you start adding new password entries to it.
+Find and re-open your database using your [master passphrase](topics/tool-4-keepassx/1-create-database/3-1-howto.md) before you start adding new password entries to it.
 <br>
 # Step 4. Closing your database.
 There are three ways to close your database:

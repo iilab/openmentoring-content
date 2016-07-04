@@ -19,7 +19,7 @@ If an end-to-end encrypted tool is not available, use tools that encrypt message
 This, in turn, is better than using unencrypted communications (such as your phone or text messages). Do the best that you can with the resources and skills available.
 <br>
 # Communicating safely
-To learn more about communicating safely on a computer, refer to the [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) lesson.
-To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
+To learn more about communicating safely on a computer, refer to the [Secure communications](topics/understand-4-digisec/4-secure-communications/1-1-intro.md) lesson.
+To learn more about communicating safely on a smartphone, refer to the [Safe Phones](topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
 <br>
 > Use encrypted channels when possible

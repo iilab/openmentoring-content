@@ -36,7 +36,7 @@ During this period, it is important to examine and redesign the work situation t
 Vicarious traumatisation refers to traumatic stress arising from exposure to the frightening experiences of others.
 <br>
 # Symptoms of vicarious trauma
-In most cases, vicarious traumatisation shares the features of the [traumatic stress reaction](en/topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
+In most cases, vicarious traumatisation shares the features of the [traumatic stress reaction](topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
 <br>
 # Loss of faith in others
 In some cases, vicarious traumatisation takes the form of a loss of faith in the essential goodness of others and a growing sense that one’s work is meaningless.

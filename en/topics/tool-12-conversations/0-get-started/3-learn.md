@@ -11,7 +11,7 @@ Using Conversations will prevent anyone from being able to read the content of y
 In some countries, an encryption app such as Conversations may attract attention, be illegal or subject to legal constraints.
 <br>
 # Installation guide
-Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-6-conversations/0-getting-started/4-1-howto-install.md) to learn how to do so.
+Before starting to use Signal, you must download it. Review [the installation guide](topics/tool-6-conversations/0-getting-started/4-1-howto-install.md) to learn how to do so.
 <br>
 # Requirements
 To determine whether your phone meets the requirements to use Signal, visit the project homepage at https://conversations.im/

@@ -5,7 +5,7 @@ title: Steps to create a KeepassX database
 In the KeePassX menu, select File, then New Database.
 <br>
 # Step 2.
-Choose a strong and memorable master passphrase, then enter it. Refer to the [Passwords lesson](en/topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so
+Choose a strong and memorable master passphrase, then enter it. Refer to the [Passwords lesson](topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so
 <br>
 # Step 3. (Optional)
 If you want to see the master passphrase you have chosen and entered, you can click the {‘eye' button} to the right of the entry field. (Be aware of your current circumstances, however. An untrusted person nearby may see your exposed master passphrase!)

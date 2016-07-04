@@ -3,6 +3,6 @@
 - internal-...
 ---
 To learn more about XXX, see also:
- * [An external resource to study next](en/topics/_topic/_unit/index.md)
- * [Another resource](en/topics/_topic/_unit/index.md)
+ * [An external resource to study next](topics/_topic/_unit/index.md)
+ * [Another resource](topics/_topic/_unit/index.md)
  * ...

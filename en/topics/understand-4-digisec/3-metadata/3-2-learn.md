@@ -14,10 +14,10 @@ Digital image file formats such as TIFF and JPEG created by digital cameras or s
 Other files such as text documents include metadata too. A text document's metadata, for example, may contain information about how long the document is, who the author is, when the document was written, and a short summary of the document.
 <br>
 # Metadata is unencrypted
-This information is viewable even if the content of your documents are [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md).
+This information is viewable even if the content of your documents are [encrypted](topics/understand-4-digisec/1-encryption/1-1-intro.md).
 <br>
 # Email metadata
 Emails contain metadata as well. The author of the email, the email recipient, subject line, and date are all metadata. The content of the email, that is, what you are actually writing, is not metadata.
 <br>
 # Metadata can reveal your communication
-Even if the content of your emails is [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
+Even if the content of your emails is [encrypted](topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
