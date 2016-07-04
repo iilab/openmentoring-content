@@ -1,6 +1,5 @@
 ---
 title: Learn how to
-published: true
 ---
 - [Send and receive messages](topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
 - [Message Individuals](topics/tool-2-signal/1-messaging/index.html#-2-messaging-individuals)
