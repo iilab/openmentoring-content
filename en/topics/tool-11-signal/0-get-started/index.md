@@ -1,4 +1,4 @@
 ---
-title: "Get Started with Signal"
+title: "Get Started"
 order: 0
 ---

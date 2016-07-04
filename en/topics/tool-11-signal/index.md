@@ -1,5 +1,5 @@
 ---
-title: Communicate with Signal
+title: Calls
 sources:
   -
     organisation: "Tactical Technology Collective"

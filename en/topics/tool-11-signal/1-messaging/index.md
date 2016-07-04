@@ -1,3 +1,3 @@
 ---
-title: Use Signal messaging 
+title: Messaging 
 ---
