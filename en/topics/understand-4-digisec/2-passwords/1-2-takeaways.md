@@ -1,6 +1,5 @@
 ---
 title: Learn how to
-published: true
 ---
 - [Understand password basics](topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](topics/understand-4-digisec/2-passwords/3-2-learn.md)

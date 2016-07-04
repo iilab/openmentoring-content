@@ -1,5 +1,5 @@
 ---
-title: Choosing the right lesson
+title: Choose the right lesson
 ---
 To learn the basics of encryption and how it can help protect you and your network, choose the Encryption lesson:
 - [Encryption](topics/understand-4-digisec/1-encryption/1-intro.md)

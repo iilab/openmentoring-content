@@ -1,6 +1,5 @@
 ---
 title: Building trust within a team
-source: Tactical Technology Collective: Holistic Security Guide
 ---
 # Increasing trust in a team
 There are several ways we can work on increasing trust within a team:

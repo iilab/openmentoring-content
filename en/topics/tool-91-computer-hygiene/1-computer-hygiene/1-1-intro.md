@@ -1,5 +1,4 @@
 ---
-title: "Getting Started"
-source:
+title: "Get started"
 ---
 Learn to use common computer hygiene practices.

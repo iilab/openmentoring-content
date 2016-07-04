@@ -1,4 +1,4 @@
 ---
-title: Getting started with computer hygiene
+title: Get started with computer hygiene
 order: 0
 ---

@@ -1,6 +1,5 @@
 ---
 title: Learn how to
-published: true
 ---
 Key takeaways from this topic include lessons on the following:
 - [Your security](topics/understand-2-security/1-your-security/1-intro.md)

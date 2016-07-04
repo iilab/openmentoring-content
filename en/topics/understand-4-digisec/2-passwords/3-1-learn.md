@@ -1,6 +1,5 @@
 ---
 title: Password basics
-published: true
 ---
 # Protecting your information
 Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission

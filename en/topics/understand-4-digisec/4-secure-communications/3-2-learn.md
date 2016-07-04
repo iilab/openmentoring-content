@@ -1,6 +1,5 @@
 ---
 title: If your communications are compromised
-source:
 ---
 # Consider the consequences
 In your communications are compromised, case you have to consider the consequence for yourself and your contact to reveal information about the emergency.

@@ -1,6 +1,5 @@
 ---
 title: Information compartmentalisation
-source:
 ---
 # Information security
 Think about what kinds of information you share with your colleagues and what information to keep private.
@@ -16,5 +15,3 @@ Whether you share much or little information with your colleagues, it is importa
 <br>
 # See also
 Refer to the [Secure Communications](topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
-
-> sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.

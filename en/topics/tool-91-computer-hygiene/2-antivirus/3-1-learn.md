@@ -1,8 +1,6 @@
 ---
 title: "Recommended anti-virus software"
-published: true
 ---
-<br>
 - Microsoft Safety Scanner (Windows)
 - F-Secure
 - Kaspersky

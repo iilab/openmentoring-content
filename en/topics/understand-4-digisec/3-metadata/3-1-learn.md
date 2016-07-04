@@ -1,6 +1,5 @@
 ---
 title: "What is metadata?"
-published: true
 ---
 # About metadata
 Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.

@@ -1,6 +1,5 @@
 ---
 title: Secure communication tools
-source:
 ---
 For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
 
